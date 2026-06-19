@@ -1,0 +1,1001 @@
+﻿Customer_ID,Customer_Name,Industry,Region,City,Credit_Limit,Sales_Manager,Customer_Segment,Risk_Base_Score,Customer_Credit_Rating,Customer_Status
+CUST0001,Zenith Industries,Manufacturing,East,Chennai,1500000,N. Verma,Mid-Market,35,B,Active
+CUST0002,Gamma Solutions,Construction,West,Bengaluru,750000,P. Mehta,Mid-Market,64,C,Active
+CUST0003,Apex Enterprises,FMCG,West,Hyderabad,2000000,V. Rao,Mid-Market,39,B,Active
+CUST0004,Apex Solutions,Retail,North,Chennai,250000,N. Verma,Enterprise,73,D,Active
+CUST0005,Beta Pharma,FMCG,South,Jaipur,1500000,K. Gupta,Enterprise,49,B,Active
+CUST0006,Alpha Logistics,Pharma,North,Delhi,2000000,K. Gupta,Mid-Market,64,C,Active
+CUST0007,Global Traders,IT Services,East,Mumbai,250000,P. Mehta,SME,56,C,Active
+CUST0008,Global Solutions,FMCG,East,Hyderabad,1500000,A. Sharma,Enterprise,70,C,Active
+CUST0009,Nova Retail,Construction,South,Bengaluru,500000,P. Mehta,Enterprise,19,A,Active
+CUST0010,Alpha Traders,Healthcare,West,Chennai,3000000,N. Verma,SME,21,A,Active
+CUST0011,Beta Traders,Healthcare,South,Pune,2000000,S. Kapoor,Mid-Market,42,B,Inactive
+CUST0012,Prime Traders,Construction,West,Bengaluru,2000000,P. Mehta,SME,33,B,Active
+CUST0013,Nova Traders,Automotive,East,Pune,250000,P. Mehta,SME,71,D,Active
+CUST0014,Prime Solutions,Construction,North,Chennai,250000,K. Gupta,Enterprise,63,C,Active
+CUST0015,Vertex Industries,Pharma,East,Bengaluru,1000000,R. Singh,Mid-Market,67,C,Active
+CUST0016,Alpha Enterprises,Manufacturing,South,Pune,1500000,R. Singh,Enterprise,36,B,Active
+CUST0017,Alpha Solutions,Retail,East,Kolkata,1000000,S. Kapoor,Mid-Market,74,D,Active
+CUST0018,Nova Enterprises,Manufacturing,South,Bengaluru,2000000,S. Kapoor,Enterprise,65,C,Active
+CUST0019,Prime Retail,FMCG,West,Delhi,750000,N. Verma,Enterprise,16,A,Active
+CUST0020,Beta Retail,Pharma,North,Kolkata,1000000,N. Verma,SME,22,A,Active
+CUST0021,Zenith Solutions,Pharma,East,Jaipur,1500000,S. Kapoor,SME,76,D,Active
+CUST0022,Prime Pharma,FMCG,North,Chennai,3000000,P. Mehta,Enterprise,42,B,Active
+CUST0023,Nova Retail,Automotive,North,Bengaluru,250000,S. Kapoor,Enterprise,66,C,Active
+CUST0024,Vertex Foods,FMCG,South,Kolkata,1000000,A. Sharma,Mid-Market,64,C,Active
+CUST0025,Nova Foods,FMCG,South,Kolkata,2000000,N. Verma,Enterprise,45,B,Active
+CUST0026,Gamma Enterprises,FMCG,North,Hyderabad,1000000,R. Singh,SME,52,C,Active
+CUST0027,Global Solutions,Retail,West,Jaipur,2000000,R. Singh,Mid-Market,17,A,Active
+CUST0028,Beta Industries,Construction,East,Hyderabad,250000,S. Kapoor,Mid-Market,27,A,Active
+CUST0029,Delta Industries,FMCG,North,Chennai,500000,A. Sharma,SME,53,C,Active
+CUST0030,Prime Logistics,Healthcare,East,Bengaluru,1000000,P. Mehta,Mid-Market,33,B,Active
+CUST0031,Vertex Industries,FMCG,East,Bengaluru,750000,N. Verma,SME,24,A,Active
+CUST0032,Vertex Pharma,Pharma,East,Kolkata,750000,V. Rao,Mid-Market,45,B,Active
+CUST0033,Apex Logistics,Retail,West,Pune,2000000,V. Rao,Mid-Market,35,B,Active
+CUST0034,Beta Industries,IT Services,West,Kolkata,750000,R. Singh,SME,75,D,Active
+CUST0035,Global Retail,Manufacturing,North,Jaipur,1500000,R. Singh,SME,15,A,Active
+CUST0036,Apex Enterprises,IT Services,South,Hyderabad,2000000,P. Mehta,Mid-Market,61,C,Active
+CUST0037,Alpha Logistics,FMCG,West,Kolkata,750000,S. Kapoor,Enterprise,80,D,Active
+CUST0038,Apex Enterprises,FMCG,East,Mumbai,1000000,N. Verma,Mid-Market,70,C,Inactive
+CUST0039,Prime Retail,IT Services,North,Bengaluru,3000000,S. Kapoor,SME,15,A,Active
+CUST0040,Alpha Traders,Retail,North,Delhi,500000,P. Mehta,SME,64,C,Active
+CUST0041,Nova Enterprises,Healthcare,North,Pune,750000,A. Sharma,SME,24,A,Active
+CUST0042,Delta Logistics,Retail,West,Pune,250000,N. Verma,SME,37,B,Active
+CUST0043,Alpha Enterprises,FMCG,East,Hyderabad,2000000,V. Rao,Mid-Market,43,B,Active
+CUST0044,Delta Logistics,IT Services,East,Delhi,3000000,V. Rao,SME,50,B,Active
+CUST0045,Delta Foods,Retail,East,Chennai,500000,V. Rao,SME,75,D,Active
+CUST0046,Global Pharma,FMCG,West,Chennai,2000000,K. Gupta,SME,73,D,Active
+CUST0047,Beta Retail,Healthcare,South,Mumbai,1500000,V. Rao,Enterprise,57,C,Active
+CUST0048,Gamma Foods,Healthcare,East,Hyderabad,1500000,S. Kapoor,Enterprise,46,B,Active
+CUST0049,Alpha Retail,Healthcare,South,Bengaluru,2000000,N. Verma,SME,43,B,Active
+CUST0050,Vertex Industries,Automotive,West,Delhi,1000000,K. Gupta,Mid-Market,40,B,Active
+CUST0051,Alpha Retail,Construction,North,Mumbai,3000000,R. Singh,Mid-Market,23,A,Active
+CUST0052,Delta Retail,Retail,West,Hyderabad,1000000,S. Kapoor,SME,33,B,Active
+CUST0053,Nova Foods,Healthcare,North,Hyderabad,750000,S. Kapoor,Enterprise,45,B,Active
+CUST0054,Gamma Solutions,Manufacturing,North,Bengaluru,1500000,A. Sharma,Enterprise,66,C,Active
+CUST0055,Beta Logistics,Healthcare,South,Pune,3000000,S. Kapoor,Enterprise,53,C,Active
+CUST0056,Prime Foods,Pharma,South,Hyderabad,2000000,R. Singh,Enterprise,19,A,Active
+CUST0057,Zenith Retail,Automotive,North,Bengaluru,2000000,K. Gupta,Enterprise,51,C,Active
+CUST0058,Apex Foods,Pharma,North,Pune,750000,R. Singh,Mid-Market,66,C,Active
+CUST0059,Alpha Solutions,FMCG,West,Bengaluru,2000000,P. Mehta,Enterprise,53,C,Active
+CUST0060,Nova Foods,Automotive,West,Pune,500000,R. Singh,Mid-Market,26,A,Active
+CUST0061,Prime Retail,Manufacturing,West,Bengaluru,250000,R. Singh,SME,37,B,Active
+CUST0062,Prime Pharma,Automotive,South,Kolkata,500000,N. Verma,Mid-Market,66,C,Active
+CUST0063,Vertex Industries,Automotive,West,Hyderabad,250000,R. Singh,Mid-Market,50,B,Active
+CUST0064,Vertex Pharma,Automotive,West,Hyderabad,3000000,R. Singh,Mid-Market,16,A,Active
+CUST0065,Beta Logistics,FMCG,South,Delhi,3000000,K. Gupta,Mid-Market,50,B,Active
+CUST0066,Prime Logistics,Healthcare,West,Jaipur,750000,R. Singh,Mid-Market,68,C,Active
+CUST0067,Vertex Solutions,FMCG,South,Delhi,500000,V. Rao,SME,71,D,Active
+CUST0068,Nova Logistics,IT Services,North,Bengaluru,2000000,P. Mehta,Enterprise,42,B,Active
+CUST0069,Apex Industries,Construction,West,Mumbai,2000000,N. Verma,Mid-Market,44,B,Active
+CUST0070,Delta Retail,Healthcare,East,Delhi,500000,V. Rao,SME,15,A,Active
+CUST0071,Beta Solutions,Construction,South,Hyderabad,500000,N. Verma,Enterprise,60,C,Active
+CUST0072,Alpha Logistics,FMCG,South,Jaipur,250000,P. Mehta,Enterprise,73,D,Active
+CUST0073,Beta Traders,Automotive,North,Mumbai,250000,V. Rao,Mid-Market,50,B,Active
+CUST0074,Beta Industries,FMCG,East,Chennai,1000000,R. Singh,Enterprise,69,C,Active
+CUST0075,Gamma Enterprises,Automotive,North,Bengaluru,500000,N. Verma,Enterprise,73,D,Active
+CUST0076,Beta Enterprises,Automotive,West,Delhi,750000,S. Kapoor,SME,42,B,Active
+CUST0077,Gamma Solutions,Pharma,North,Pune,250000,P. Mehta,Enterprise,21,A,Active
+CUST0078,Alpha Enterprises,Retail,South,Pune,3000000,K. Gupta,Mid-Market,38,B,Active
+CUST0079,Global Logistics,FMCG,North,Bengaluru,2000000,N. Verma,Mid-Market,48,B,Active
+CUST0080,Alpha Pharma,FMCG,West,Bengaluru,750000,P. Mehta,Enterprise,15,A,Active
+CUST0081,Alpha Foods,Construction,North,Chennai,1500000,R. Singh,Enterprise,38,B,Active
+CUST0082,Global Pharma,IT Services,South,Chennai,500000,R. Singh,SME,74,D,Active
+CUST0083,Prime Solutions,Pharma,South,Bengaluru,1000000,A. Sharma,Mid-Market,24,A,Active
+CUST0084,Gamma Industries,Manufacturing,North,Hyderabad,500000,P. Mehta,Enterprise,79,D,Active
+CUST0085,Delta Enterprises,FMCG,South,Chennai,3000000,A. Sharma,Mid-Market,33,B,Active
+CUST0086,Delta Solutions,FMCG,East,Mumbai,750000,V. Rao,SME,25,A,Active
+CUST0087,Zenith Traders,Healthcare,West,Kolkata,1500000,P. Mehta,SME,33,B,Active
+CUST0088,Zenith Enterprises,Automotive,West,Mumbai,750000,A. Sharma,Mid-Market,78,D,Active
+CUST0089,Beta Pharma,Automotive,East,Pune,750000,V. Rao,Mid-Market,41,B,Active
+CUST0090,Gamma Pharma,Pharma,East,Kolkata,2000000,V. Rao,Mid-Market,62,C,Active
+CUST0091,Nova Retail,Healthcare,North,Delhi,250000,P. Mehta,Enterprise,63,C,Active
+CUST0092,Delta Retail,Healthcare,West,Delhi,750000,V. Rao,Enterprise,32,B,Active
+CUST0093,Nova Logistics,Automotive,South,Mumbai,1000000,A. Sharma,Enterprise,53,C,Active
+CUST0094,Apex Traders,FMCG,North,Bengaluru,1500000,V. Rao,SME,57,C,Active
+CUST0095,Beta Logistics,Retail,North,Hyderabad,1500000,P. Mehta,Mid-Market,27,A,Active
+CUST0096,Delta Foods,Manufacturing,South,Delhi,1500000,K. Gupta,SME,69,C,Active
+CUST0097,Global Enterprises,Healthcare,North,Jaipur,250000,A. Sharma,Mid-Market,40,B,Active
+CUST0098,Prime Pharma,Healthcare,West,Mumbai,1500000,K. Gupta,SME,77,D,Active
+CUST0099,Gamma Solutions,FMCG,North,Jaipur,1000000,R. Singh,Enterprise,76,D,Active
+CUST0100,Gamma Solutions,Retail,West,Bengaluru,1500000,V. Rao,Enterprise,44,B,Active
+CUST0101,Delta Logistics,Healthcare,West,Mumbai,1000000,P. Mehta,SME,52,C,Active
+CUST0102,Gamma Solutions,IT Services,West,Delhi,2000000,P. Mehta,Enterprise,79,D,Inactive
+CUST0103,Apex Foods,IT Services,West,Pune,1500000,K. Gupta,Mid-Market,55,C,Active
+CUST0104,Gamma Retail,Construction,North,Kolkata,3000000,R. Singh,Enterprise,22,A,Active
+CUST0105,Beta Logistics,Manufacturing,North,Hyderabad,750000,A. Sharma,SME,19,A,Inactive
+CUST0106,Beta Traders,Automotive,East,Mumbai,1500000,P. Mehta,Mid-Market,44,B,Active
+CUST0107,Alpha Logistics,Manufacturing,West,Hyderabad,500000,K. Gupta,SME,78,D,Active
+CUST0108,Global Enterprises,Pharma,North,Mumbai,750000,N. Verma,Enterprise,47,B,Active
+CUST0109,Beta Solutions,Pharma,North,Mumbai,750000,N. Verma,Mid-Market,60,C,Active
+CUST0110,Apex Traders,Automotive,West,Chennai,250000,K. Gupta,SME,48,B,Active
+CUST0111,Gamma Industries,Manufacturing,South,Jaipur,500000,R. Singh,Enterprise,58,C,Active
+CUST0112,Zenith Enterprises,Construction,East,Kolkata,1000000,N. Verma,Mid-Market,15,A,Inactive
+CUST0113,Nova Foods,Retail,East,Hyderabad,750000,K. Gupta,Mid-Market,71,D,Active
+CUST0114,Gamma Logistics,Construction,East,Pune,3000000,A. Sharma,Mid-Market,44,B,Active
+CUST0115,Nova Solutions,Retail,North,Pune,1000000,V. Rao,Enterprise,75,D,Active
+CUST0116,Vertex Logistics,Automotive,West,Hyderabad,1000000,A. Sharma,Enterprise,23,A,Inactive
+CUST0117,Delta Enterprises,Manufacturing,South,Hyderabad,1500000,V. Rao,SME,22,A,Active
+CUST0118,Beta Foods,Pharma,East,Jaipur,750000,K. Gupta,Mid-Market,33,B,Active
+CUST0119,Apex Industries,Pharma,South,Kolkata,1500000,V. Rao,Mid-Market,73,D,Active
+CUST0120,Global Logistics,Healthcare,North,Jaipur,750000,S. Kapoor,Mid-Market,16,A,Active
+CUST0121,Zenith Enterprises,Automotive,East,Delhi,2000000,N. Verma,Mid-Market,21,A,Active
+CUST0122,Apex Enterprises,Manufacturing,East,Jaipur,1500000,V. Rao,Mid-Market,67,C,Active
+CUST0123,Global Retail,FMCG,West,Jaipur,1000000,R. Singh,Mid-Market,53,C,Active
+CUST0124,Prime Traders,Manufacturing,North,Pune,2000000,P. Mehta,SME,38,B,Active
+CUST0125,Zenith Enterprises,IT Services,North,Mumbai,3000000,K. Gupta,SME,24,A,Active
+CUST0126,Delta Logistics,Pharma,North,Kolkata,1000000,N. Verma,Mid-Market,60,C,Active
+CUST0127,Zenith Traders,IT Services,North,Kolkata,2000000,V. Rao,SME,40,B,Active
+CUST0128,Gamma Logistics,Automotive,South,Jaipur,1500000,K. Gupta,Mid-Market,27,A,Active
+CUST0129,Delta Industries,Healthcare,East,Chennai,750000,A. Sharma,SME,50,B,Active
+CUST0130,Delta Retail,Pharma,North,Hyderabad,1000000,R. Singh,Mid-Market,26,A,Active
+CUST0131,Beta Logistics,Pharma,West,Mumbai,750000,N. Verma,SME,43,B,Active
+CUST0132,Apex Traders,Retail,South,Mumbai,1000000,V. Rao,SME,51,C,Active
+CUST0133,Apex Industries,Healthcare,North,Jaipur,3000000,K. Gupta,Mid-Market,66,C,Active
+CUST0134,Gamma Logistics,Retail,West,Hyderabad,1500000,S. Kapoor,Enterprise,48,B,Active
+CUST0135,Vertex Retail,Automotive,East,Mumbai,750000,S. Kapoor,Enterprise,41,B,Active
+CUST0136,Global Traders,Automotive,South,Jaipur,1500000,R. Singh,Mid-Market,77,D,Active
+CUST0137,Prime Pharma,IT Services,North,Delhi,250000,K. Gupta,Enterprise,48,B,Active
+CUST0138,Beta Industries,Healthcare,South,Jaipur,1500000,K. Gupta,SME,37,B,Active
+CUST0139,Beta Solutions,Automotive,East,Hyderabad,500000,N. Verma,Enterprise,45,B,Active
+CUST0140,Prime Pharma,Automotive,West,Jaipur,500000,S. Kapoor,SME,79,D,Active
+CUST0141,Nova Traders,Construction,South,Bengaluru,3000000,S. Kapoor,Mid-Market,28,A,Active
+CUST0142,Alpha Solutions,Manufacturing,East,Pune,500000,R. Singh,Mid-Market,57,C,Active
+CUST0143,Alpha Solutions,Manufacturing,North,Kolkata,1500000,K. Gupta,Mid-Market,34,B,Active
+CUST0144,Zenith Traders,Retail,West,Kolkata,750000,A. Sharma,Enterprise,40,B,Active
+CUST0145,Gamma Solutions,Healthcare,North,Mumbai,1500000,A. Sharma,Enterprise,18,A,Active
+CUST0146,Vertex Foods,Healthcare,West,Pune,250000,V. Rao,Enterprise,62,C,Active
+CUST0147,Delta Pharma,Manufacturing,North,Delhi,2000000,K. Gupta,SME,29,A,Active
+CUST0148,Nova Retail,FMCG,South,Kolkata,750000,R. Singh,Mid-Market,37,B,Active
+CUST0149,Prime Solutions,Construction,West,Bengaluru,250000,A. Sharma,Mid-Market,60,C,Active
+CUST0150,Nova Traders,FMCG,West,Jaipur,1500000,K. Gupta,SME,62,C,Active
+CUST0151,Delta Traders,Construction,South,Pune,250000,N. Verma,SME,39,B,Active
+CUST0152,Beta Logistics,Construction,East,Kolkata,250000,K. Gupta,Mid-Market,30,A,Active
+CUST0153,Zenith Traders,Retail,West,Mumbai,2000000,V. Rao,Enterprise,77,D,Active
+CUST0154,Prime Traders,Construction,South,Hyderabad,2000000,S. Kapoor,Mid-Market,70,C,Active
+CUST0155,Vertex Industries,FMCG,East,Chennai,1000000,A. Sharma,SME,69,C,Active
+CUST0156,Beta Enterprises,Manufacturing,North,Mumbai,2000000,S. Kapoor,Mid-Market,78,D,Active
+CUST0157,Global Industries,FMCG,East,Bengaluru,750000,P. Mehta,Mid-Market,37,B,Active
+CUST0158,Beta Enterprises,Construction,West,Pune,750000,K. Gupta,SME,67,C,Active
+CUST0159,Apex Industries,Healthcare,North,Chennai,750000,N. Verma,Enterprise,69,C,Active
+CUST0160,Zenith Retail,IT Services,South,Jaipur,750000,K. Gupta,Enterprise,62,C,Active
+CUST0161,Prime Industries,Automotive,West,Hyderabad,3000000,K. Gupta,SME,31,B,Active
+CUST0162,Zenith Solutions,IT Services,South,Hyderabad,250000,P. Mehta,Mid-Market,38,B,Active
+CUST0163,Alpha Logistics,IT Services,North,Jaipur,750000,P. Mehta,Mid-Market,55,C,Active
+CUST0164,Vertex Traders,Automotive,South,Jaipur,2000000,P. Mehta,SME,70,C,Active
+CUST0165,Beta Industries,Construction,East,Hyderabad,750000,R. Singh,Mid-Market,72,D,Inactive
+CUST0166,Nova Pharma,FMCG,East,Bengaluru,750000,V. Rao,Enterprise,28,A,Active
+CUST0167,Apex Enterprises,Automotive,West,Jaipur,2000000,A. Sharma,Mid-Market,16,A,Active
+CUST0168,Delta Foods,Pharma,East,Chennai,500000,K. Gupta,SME,57,C,Active
+CUST0169,Gamma Industries,Automotive,East,Jaipur,250000,R. Singh,SME,62,C,Active
+CUST0170,Vertex Traders,FMCG,North,Bengaluru,250000,V. Rao,Mid-Market,73,D,Active
+CUST0171,Apex Enterprises,Pharma,West,Hyderabad,500000,P. Mehta,SME,17,A,Active
+CUST0172,Prime Foods,Automotive,South,Kolkata,250000,K. Gupta,Mid-Market,34,B,Active
+CUST0173,Apex Foods,Healthcare,North,Bengaluru,1500000,S. Kapoor,Enterprise,59,C,Active
+CUST0174,Zenith Traders,FMCG,South,Mumbai,2000000,V. Rao,SME,52,C,Active
+CUST0175,Gamma Foods,Construction,North,Delhi,2000000,K. Gupta,Mid-Market,48,B,Active
+CUST0176,Delta Industries,Manufacturing,West,Delhi,500000,K. Gupta,Mid-Market,61,C,Inactive
+CUST0177,Apex Foods,IT Services,South,Kolkata,3000000,R. Singh,Enterprise,24,A,Active
+CUST0178,Nova Pharma,IT Services,West,Jaipur,1000000,N. Verma,Mid-Market,65,C,Active
+CUST0179,Prime Pharma,FMCG,North,Hyderabad,2000000,S. Kapoor,SME,25,A,Active
+CUST0180,Gamma Traders,FMCG,West,Mumbai,2000000,P. Mehta,SME,28,A,Active
+CUST0181,Beta Logistics,Retail,South,Mumbai,2000000,V. Rao,Enterprise,15,A,Active
+CUST0182,Prime Pharma,Retail,South,Jaipur,3000000,S. Kapoor,Mid-Market,25,A,Active
+CUST0183,Alpha Pharma,Construction,West,Hyderabad,1000000,P. Mehta,Mid-Market,50,B,Inactive
+CUST0184,Beta Foods,FMCG,North,Mumbai,3000000,S. Kapoor,Mid-Market,60,C,Active
+CUST0185,Global Traders,Pharma,North,Mumbai,1500000,V. Rao,SME,41,B,Active
+CUST0186,Zenith Logistics,FMCG,East,Jaipur,2000000,S. Kapoor,Enterprise,71,D,Active
+CUST0187,Vertex Enterprises,Pharma,East,Jaipur,500000,P. Mehta,Enterprise,51,C,Active
+CUST0188,Prime Enterprises,Construction,West,Delhi,750000,S. Kapoor,SME,18,A,Active
+CUST0189,Alpha Industries,Healthcare,East,Mumbai,2000000,S. Kapoor,Mid-Market,78,D,Active
+CUST0190,Apex Pharma,Automotive,East,Chennai,500000,K. Gupta,Mid-Market,80,D,Active
+CUST0191,Global Logistics,Manufacturing,West,Pune,500000,R. Singh,SME,15,A,Active
+CUST0192,Prime Logistics,Construction,West,Jaipur,500000,A. Sharma,SME,49,B,Active
+CUST0193,Prime Solutions,Pharma,South,Kolkata,750000,S. Kapoor,Mid-Market,43,B,Inactive
+CUST0194,Prime Solutions,Construction,South,Bengaluru,750000,A. Sharma,Enterprise,65,C,Active
+CUST0195,Nova Pharma,FMCG,South,Bengaluru,1000000,K. Gupta,SME,47,B,Active
+CUST0196,Beta Traders,Manufacturing,East,Mumbai,500000,R. Singh,Mid-Market,19,A,Active
+CUST0197,Alpha Logistics,Pharma,South,Chennai,1500000,S. Kapoor,SME,78,D,Active
+CUST0198,Vertex Enterprises,Manufacturing,East,Pune,500000,S. Kapoor,Mid-Market,80,D,Active
+CUST0199,Beta Traders,Retail,West,Hyderabad,2000000,A. Sharma,Enterprise,60,C,Active
+CUST0200,Delta Industries,Manufacturing,North,Bengaluru,2000000,P. Mehta,Mid-Market,51,C,Active
+CUST0201,Gamma Logistics,Manufacturing,East,Jaipur,3000000,S. Kapoor,SME,63,C,Active
+CUST0202,Zenith Retail,Manufacturing,East,Jaipur,250000,N. Verma,Enterprise,46,B,Active
+CUST0203,Zenith Industries,Automotive,South,Chennai,2000000,R. Singh,SME,57,C,Active
+CUST0204,Zenith Industries,FMCG,North,Delhi,250000,A. Sharma,SME,53,C,Active
+CUST0205,Global Industries,Healthcare,South,Jaipur,3000000,P. Mehta,SME,31,B,Active
+CUST0206,Global Pharma,Manufacturing,South,Delhi,2000000,A. Sharma,SME,68,C,Active
+CUST0207,Beta Logistics,Construction,East,Jaipur,250000,V. Rao,Enterprise,18,A,Active
+CUST0208,Nova Enterprises,Construction,North,Jaipur,3000000,K. Gupta,Mid-Market,56,C,Active
+CUST0209,Prime Logistics,Automotive,South,Bengaluru,1500000,V. Rao,Enterprise,19,A,Inactive
+CUST0210,Vertex Foods,IT Services,South,Delhi,3000000,R. Singh,Mid-Market,21,A,Active
+CUST0211,Global Retail,Automotive,North,Mumbai,250000,S. Kapoor,SME,15,A,Active
+CUST0212,Beta Logistics,Automotive,East,Hyderabad,1500000,N. Verma,Enterprise,55,C,Active
+CUST0213,Global Enterprises,Pharma,North,Chennai,2000000,K. Gupta,SME,24,A,Active
+CUST0214,Nova Logistics,FMCG,South,Chennai,750000,A. Sharma,SME,56,C,Active
+CUST0215,Zenith Foods,Construction,West,Bengaluru,250000,A. Sharma,SME,69,C,Active
+CUST0216,Gamma Logistics,Healthcare,East,Delhi,3000000,K. Gupta,Enterprise,60,C,Active
+CUST0217,Vertex Industries,Manufacturing,East,Delhi,500000,A. Sharma,Enterprise,15,A,Active
+CUST0218,Zenith Industries,Automotive,North,Pune,3000000,K. Gupta,SME,48,B,Active
+CUST0219,Zenith Pharma,IT Services,West,Delhi,500000,N. Verma,Mid-Market,45,B,Active
+CUST0220,Apex Solutions,FMCG,East,Mumbai,1500000,K. Gupta,Mid-Market,37,B,Active
+CUST0221,Zenith Enterprises,Construction,West,Kolkata,250000,P. Mehta,Enterprise,61,C,Active
+CUST0222,Gamma Retail,Healthcare,East,Pune,3000000,K. Gupta,Enterprise,33,B,Active
+CUST0223,Nova Solutions,Automotive,East,Mumbai,500000,K. Gupta,SME,61,C,Active
+CUST0224,Vertex Foods,Pharma,West,Pune,2000000,P. Mehta,Mid-Market,54,C,Active
+CUST0225,Nova Enterprises,IT Services,East,Bengaluru,1500000,P. Mehta,SME,60,C,Active
+CUST0226,Delta Foods,Construction,North,Delhi,750000,S. Kapoor,Mid-Market,31,B,Active
+CUST0227,Gamma Industries,Automotive,West,Delhi,2000000,R. Singh,Enterprise,71,D,Active
+CUST0228,Global Industries,FMCG,North,Pune,250000,K. Gupta,Mid-Market,20,A,Active
+CUST0229,Zenith Logistics,FMCG,East,Mumbai,750000,V. Rao,SME,69,C,Active
+CUST0230,Alpha Enterprises,Construction,North,Jaipur,1000000,K. Gupta,Mid-Market,27,A,Active
+CUST0231,Vertex Traders,Construction,West,Hyderabad,3000000,S. Kapoor,Mid-Market,29,A,Active
+CUST0232,Nova Retail,IT Services,West,Mumbai,1000000,P. Mehta,SME,52,C,Active
+CUST0233,Apex Traders,FMCG,North,Delhi,1500000,A. Sharma,Mid-Market,44,B,Active
+CUST0234,Nova Retail,Manufacturing,West,Chennai,500000,P. Mehta,SME,20,A,Active
+CUST0235,Prime Solutions,Manufacturing,East,Bengaluru,3000000,K. Gupta,SME,46,B,Active
+CUST0236,Nova Industries,IT Services,North,Kolkata,500000,P. Mehta,SME,16,A,Active
+CUST0237,Apex Traders,IT Services,South,Chennai,1500000,V. Rao,Mid-Market,42,B,Active
+CUST0238,Global Retail,Construction,South,Chennai,2000000,K. Gupta,Mid-Market,24,A,Active
+CUST0239,Alpha Traders,Pharma,East,Bengaluru,500000,P. Mehta,SME,45,B,Active
+CUST0240,Global Retail,IT Services,East,Hyderabad,1000000,R. Singh,SME,48,B,Active
+CUST0241,Delta Logistics,FMCG,North,Mumbai,750000,K. Gupta,SME,46,B,Active
+CUST0242,Apex Enterprises,Construction,South,Hyderabad,750000,P. Mehta,SME,35,B,Inactive
+CUST0243,Beta Pharma,Manufacturing,South,Kolkata,750000,A. Sharma,Mid-Market,27,A,Active
+CUST0244,Gamma Pharma,FMCG,West,Bengaluru,3000000,A. Sharma,Mid-Market,32,B,Active
+CUST0245,Delta Logistics,IT Services,East,Kolkata,1500000,A. Sharma,SME,16,A,Active
+CUST0246,Gamma Logistics,FMCG,East,Kolkata,750000,N. Verma,SME,33,B,Active
+CUST0247,Zenith Enterprises,Pharma,South,Delhi,250000,K. Gupta,Mid-Market,73,D,Active
+CUST0248,Beta Solutions,IT Services,North,Chennai,3000000,S. Kapoor,Mid-Market,24,A,Active
+CUST0249,Beta Solutions,Healthcare,North,Delhi,2000000,R. Singh,SME,17,A,Active
+CUST0250,Alpha Traders,Pharma,South,Pune,1500000,A. Sharma,SME,58,C,Active
+CUST0251,Vertex Pharma,Pharma,East,Hyderabad,2000000,K. Gupta,Mid-Market,79,D,Active
+CUST0252,Vertex Logistics,FMCG,West,Chennai,500000,A. Sharma,Enterprise,52,C,Active
+CUST0253,Alpha Pharma,FMCG,South,Hyderabad,1000000,P. Mehta,SME,22,A,Active
+CUST0254,Beta Enterprises,Healthcare,West,Pune,2000000,P. Mehta,SME,68,C,Active
+CUST0255,Global Foods,IT Services,South,Delhi,2000000,N. Verma,Mid-Market,38,B,Active
+CUST0256,Apex Pharma,Automotive,South,Chennai,500000,V. Rao,SME,65,C,Active
+CUST0257,Vertex Retail,Healthcare,North,Pune,1000000,A. Sharma,SME,53,C,Active
+CUST0258,Prime Solutions,Retail,East,Delhi,1000000,N. Verma,Enterprise,41,B,Active
+CUST0259,Nova Logistics,IT Services,West,Hyderabad,750000,K. Gupta,Mid-Market,42,B,Active
+CUST0260,Prime Solutions,FMCG,West,Pune,750000,S. Kapoor,SME,56,C,Active
+CUST0261,Beta Foods,Pharma,South,Delhi,1000000,K. Gupta,Mid-Market,18,A,Active
+CUST0262,Prime Enterprises,Pharma,North,Mumbai,500000,N. Verma,Enterprise,75,D,Active
+CUST0263,Delta Traders,Construction,North,Mumbai,750000,R. Singh,Mid-Market,18,A,Active
+CUST0264,Vertex Retail,Retail,South,Delhi,500000,N. Verma,Mid-Market,25,A,Active
+CUST0265,Zenith Foods,Construction,North,Delhi,3000000,N. Verma,SME,55,C,Active
+CUST0266,Apex Foods,Construction,North,Mumbai,750000,P. Mehta,Mid-Market,18,A,Active
+CUST0267,Vertex Solutions,FMCG,South,Bengaluru,1500000,P. Mehta,Mid-Market,26,A,Active
+CUST0268,Nova Solutions,Construction,West,Delhi,500000,S. Kapoor,SME,80,D,Active
+CUST0269,Zenith Retail,IT Services,East,Kolkata,1500000,A. Sharma,Enterprise,38,B,Active
+CUST0270,Prime Foods,FMCG,South,Pune,250000,V. Rao,SME,67,C,Active
+CUST0271,Prime Retail,IT Services,North,Delhi,250000,K. Gupta,SME,68,C,Active
+CUST0272,Alpha Traders,Construction,North,Pune,750000,P. Mehta,SME,73,D,Active
+CUST0273,Vertex Logistics,Manufacturing,South,Chennai,750000,A. Sharma,Mid-Market,76,D,Active
+CUST0274,Gamma Enterprises,FMCG,South,Mumbai,250000,P. Mehta,Mid-Market,15,A,Active
+CUST0275,Zenith Enterprises,Pharma,South,Jaipur,3000000,A. Sharma,Enterprise,21,A,Active
+CUST0276,Global Enterprises,Retail,South,Pune,3000000,S. Kapoor,SME,39,B,Active
+CUST0277,Delta Solutions,IT Services,West,Mumbai,1000000,N. Verma,SME,80,D,Active
+CUST0278,Prime Retail,Manufacturing,East,Kolkata,250000,V. Rao,SME,54,C,Active
+CUST0279,Gamma Traders,Healthcare,East,Kolkata,500000,S. Kapoor,SME,66,C,Active
+CUST0280,Global Industries,Pharma,North,Bengaluru,3000000,K. Gupta,Enterprise,60,C,Active
+CUST0281,Apex Traders,Pharma,East,Hyderabad,2000000,P. Mehta,SME,27,A,Active
+CUST0282,Global Solutions,IT Services,West,Mumbai,2000000,N. Verma,Mid-Market,38,B,Active
+CUST0283,Prime Enterprises,Automotive,West,Delhi,500000,R. Singh,Enterprise,44,B,Active
+CUST0284,Apex Enterprises,Retail,South,Delhi,1500000,P. Mehta,Enterprise,43,B,Active
+CUST0285,Nova Industries,Construction,West,Kolkata,1000000,R. Singh,Enterprise,62,C,Active
+CUST0286,Delta Enterprises,Manufacturing,South,Chennai,250000,R. Singh,SME,72,D,Active
+CUST0287,Alpha Enterprises,Healthcare,South,Kolkata,250000,A. Sharma,Enterprise,63,C,Active
+CUST0288,Gamma Retail,Construction,North,Bengaluru,500000,P. Mehta,Enterprise,55,C,Active
+CUST0289,Gamma Logistics,Manufacturing,West,Pune,1500000,K. Gupta,Enterprise,20,A,Active
+CUST0290,Nova Solutions,Pharma,West,Chennai,3000000,R. Singh,Enterprise,67,C,Active
+CUST0291,Global Retail,Manufacturing,West,Chennai,1500000,A. Sharma,Mid-Market,73,D,Active
+CUST0292,Apex Enterprises,Construction,East,Bengaluru,2000000,N. Verma,Enterprise,44,B,Active
+CUST0293,Delta Pharma,Manufacturing,East,Jaipur,750000,P. Mehta,Enterprise,64,C,Active
+CUST0294,Vertex Pharma,Construction,South,Bengaluru,500000,S. Kapoor,Enterprise,35,B,Active
+CUST0295,Nova Industries,Pharma,West,Delhi,1500000,R. Singh,SME,37,B,Active
+CUST0296,Beta Traders,Manufacturing,North,Bengaluru,2000000,S. Kapoor,SME,57,C,Active
+CUST0297,Vertex Industries,Pharma,East,Delhi,1000000,S. Kapoor,Enterprise,24,A,Active
+CUST0298,Delta Pharma,Construction,East,Delhi,2000000,V. Rao,Mid-Market,44,B,Active
+CUST0299,Global Enterprises,Manufacturing,East,Chennai,2000000,N. Verma,Enterprise,19,A,Inactive
+CUST0300,Apex Solutions,Manufacturing,South,Mumbai,750000,K. Gupta,Mid-Market,53,C,Inactive
+CUST0301,Beta Retail,Manufacturing,West,Kolkata,1500000,P. Mehta,Mid-Market,60,C,Active
+CUST0302,Gamma Solutions,Construction,North,Mumbai,1000000,N. Verma,Mid-Market,71,D,Active
+CUST0303,Prime Industries,IT Services,East,Jaipur,1500000,K. Gupta,Mid-Market,54,C,Active
+CUST0304,Global Logistics,FMCG,North,Chennai,3000000,N. Verma,Enterprise,44,B,Active
+CUST0305,Alpha Solutions,FMCG,West,Kolkata,250000,N. Verma,SME,48,B,Active
+CUST0306,Alpha Enterprises,Pharma,South,Kolkata,1000000,P. Mehta,SME,76,D,Active
+CUST0307,Nova Industries,Retail,East,Delhi,1000000,A. Sharma,Enterprise,55,C,Active
+CUST0308,Vertex Solutions,Automotive,South,Delhi,750000,R. Singh,Enterprise,80,D,Active
+CUST0309,Apex Industries,Retail,North,Chennai,3000000,A. Sharma,SME,77,D,Active
+CUST0310,Global Logistics,Automotive,North,Jaipur,500000,S. Kapoor,Mid-Market,63,C,Active
+CUST0311,Global Traders,FMCG,West,Chennai,1000000,S. Kapoor,Mid-Market,34,B,Active
+CUST0312,Prime Industries,Healthcare,South,Pune,250000,S. Kapoor,Mid-Market,41,B,Active
+CUST0313,Prime Enterprises,IT Services,North,Delhi,1500000,R. Singh,SME,53,C,Active
+CUST0314,Nova Enterprises,Manufacturing,North,Delhi,250000,V. Rao,Enterprise,74,D,Active
+CUST0315,Zenith Foods,Construction,West,Mumbai,750000,S. Kapoor,Mid-Market,71,D,Active
+CUST0316,Beta Enterprises,Automotive,East,Hyderabad,1000000,S. Kapoor,SME,18,A,Active
+CUST0317,Gamma Solutions,Manufacturing,North,Bengaluru,3000000,K. Gupta,Mid-Market,58,C,Active
+CUST0318,Apex Pharma,Retail,South,Delhi,2000000,K. Gupta,Mid-Market,40,B,Active
+CUST0319,Alpha Industries,IT Services,South,Delhi,750000,N. Verma,Enterprise,22,A,Active
+CUST0320,Beta Traders,Automotive,West,Pune,500000,P. Mehta,SME,58,C,Active
+CUST0321,Beta Foods,Retail,South,Hyderabad,500000,R. Singh,SME,64,C,Active
+CUST0322,Gamma Foods,Automotive,South,Delhi,750000,P. Mehta,Enterprise,64,C,Active
+CUST0323,Delta Pharma,IT Services,North,Chennai,500000,A. Sharma,Mid-Market,50,B,Active
+CUST0324,Global Logistics,Retail,West,Bengaluru,1500000,K. Gupta,Mid-Market,65,C,Active
+CUST0325,Delta Retail,Construction,North,Kolkata,1000000,K. Gupta,Mid-Market,77,D,Active
+CUST0326,Global Pharma,Pharma,West,Bengaluru,500000,P. Mehta,Enterprise,39,B,Active
+CUST0327,Prime Traders,Healthcare,East,Mumbai,500000,A. Sharma,SME,43,B,Active
+CUST0328,Delta Logistics,Healthcare,West,Mumbai,1500000,V. Rao,SME,18,A,Active
+CUST0329,Vertex Foods,Pharma,East,Bengaluru,2000000,S. Kapoor,Mid-Market,46,B,Active
+CUST0330,Gamma Pharma,Retail,East,Kolkata,1000000,A. Sharma,Mid-Market,70,C,Active
+CUST0331,Apex Retail,Automotive,East,Bengaluru,250000,S. Kapoor,Enterprise,73,D,Active
+CUST0332,Alpha Logistics,Healthcare,East,Chennai,1000000,P. Mehta,Mid-Market,67,C,Active
+CUST0333,Nova Foods,Construction,North,Kolkata,500000,V. Rao,SME,46,B,Active
+CUST0334,Delta Logistics,IT Services,East,Chennai,1500000,K. Gupta,SME,59,C,Active
+CUST0335,Vertex Logistics,Retail,North,Bengaluru,500000,K. Gupta,Enterprise,21,A,Active
+CUST0336,Global Solutions,Healthcare,West,Mumbai,1000000,P. Mehta,Mid-Market,38,B,Active
+CUST0337,Delta Pharma,Construction,East,Bengaluru,2000000,R. Singh,SME,28,A,Active
+CUST0338,Nova Enterprises,Construction,North,Mumbai,250000,S. Kapoor,SME,68,C,Active
+CUST0339,Vertex Solutions,FMCG,West,Pune,1500000,N. Verma,Mid-Market,45,B,Active
+CUST0340,Apex Pharma,Retail,South,Pune,1500000,R. Singh,Enterprise,41,B,Active
+CUST0341,Zenith Retail,Retail,West,Chennai,500000,K. Gupta,Enterprise,23,A,Active
+CUST0342,Apex Logistics,Pharma,North,Bengaluru,1500000,A. Sharma,Enterprise,73,D,Active
+CUST0343,Apex Solutions,Construction,East,Chennai,250000,R. Singh,SME,70,C,Active
+CUST0344,Delta Pharma,Retail,West,Chennai,250000,A. Sharma,Mid-Market,36,B,Active
+CUST0345,Nova Traders,Pharma,North,Jaipur,500000,S. Kapoor,Enterprise,56,C,Active
+CUST0346,Global Industries,Healthcare,South,Jaipur,1500000,P. Mehta,SME,28,A,Active
+CUST0347,Global Enterprises,Automotive,North,Kolkata,3000000,V. Rao,Enterprise,76,D,Active
+CUST0348,Global Traders,Manufacturing,West,Delhi,3000000,P. Mehta,SME,71,D,Active
+CUST0349,Beta Traders,Retail,North,Mumbai,250000,A. Sharma,Mid-Market,47,B,Active
+CUST0350,Global Foods,Healthcare,North,Bengaluru,1000000,S. Kapoor,Mid-Market,30,A,Active
+CUST0351,Global Retail,Automotive,South,Delhi,1500000,V. Rao,Mid-Market,58,C,Active
+CUST0352,Delta Solutions,Healthcare,South,Pune,3000000,P. Mehta,Enterprise,48,B,Active
+CUST0353,Delta Foods,FMCG,South,Kolkata,2000000,S. Kapoor,Enterprise,17,A,Active
+CUST0354,Delta Enterprises,Automotive,South,Pune,500000,V. Rao,SME,76,D,Active
+CUST0355,Apex Retail,FMCG,South,Delhi,2000000,V. Rao,Enterprise,76,D,Active
+CUST0356,Apex Solutions,Manufacturing,North,Kolkata,250000,V. Rao,SME,16,A,Active
+CUST0357,Nova Pharma,Retail,South,Pune,3000000,N. Verma,Mid-Market,44,B,Active
+CUST0358,Delta Traders,FMCG,North,Kolkata,750000,S. Kapoor,Enterprise,32,B,Active
+CUST0359,Gamma Logistics,FMCG,South,Hyderabad,750000,S. Kapoor,SME,53,C,Active
+CUST0360,Alpha Traders,FMCG,South,Jaipur,750000,K. Gupta,Enterprise,61,C,Active
+CUST0361,Nova Traders,Construction,North,Mumbai,1000000,R. Singh,Mid-Market,38,B,Active
+CUST0362,Delta Traders,Manufacturing,North,Kolkata,3000000,P. Mehta,SME,30,A,Active
+CUST0363,Gamma Foods,Pharma,South,Kolkata,1000000,P. Mehta,Mid-Market,18,A,Active
+CUST0364,Vertex Solutions,Pharma,West,Kolkata,1000000,S. Kapoor,Enterprise,57,C,Active
+CUST0365,Delta Enterprises,IT Services,South,Mumbai,3000000,R. Singh,SME,28,A,Active
+CUST0366,Beta Retail,IT Services,East,Hyderabad,750000,V. Rao,SME,34,B,Active
+CUST0367,Zenith Retail,Retail,East,Pune,750000,K. Gupta,Mid-Market,51,C,Active
+CUST0368,Apex Pharma,IT Services,North,Pune,3000000,A. Sharma,SME,63,C,Active
+CUST0369,Delta Retail,Retail,North,Kolkata,3000000,P. Mehta,Enterprise,66,C,Active
+CUST0370,Vertex Pharma,Retail,North,Delhi,3000000,K. Gupta,SME,45,B,Active
+CUST0371,Global Pharma,Healthcare,North,Pune,1500000,P. Mehta,Enterprise,72,D,Active
+CUST0372,Gamma Pharma,Manufacturing,East,Kolkata,3000000,K. Gupta,SME,33,B,Active
+CUST0373,Gamma Industries,IT Services,North,Jaipur,500000,V. Rao,Mid-Market,31,B,Active
+CUST0374,Gamma Foods,FMCG,North,Pune,1000000,K. Gupta,Enterprise,44,B,Active
+CUST0375,Delta Foods,FMCG,West,Kolkata,750000,R. Singh,Mid-Market,19,A,Active
+CUST0376,Delta Enterprises,Pharma,West,Bengaluru,2000000,A. Sharma,Enterprise,30,A,Active
+CUST0377,Nova Enterprises,IT Services,East,Pune,2000000,N. Verma,Enterprise,73,D,Active
+CUST0378,Beta Traders,Healthcare,North,Chennai,500000,N. Verma,SME,43,B,Active
+CUST0379,Alpha Enterprises,Manufacturing,North,Chennai,250000,A. Sharma,Mid-Market,48,B,Active
+CUST0380,Nova Logistics,Retail,South,Chennai,2000000,V. Rao,Enterprise,67,C,Active
+CUST0381,Gamma Foods,Retail,South,Mumbai,750000,A. Sharma,Enterprise,75,D,Active
+CUST0382,Prime Industries,FMCG,South,Kolkata,2000000,S. Kapoor,Mid-Market,22,A,Active
+CUST0383,Global Pharma,Healthcare,East,Delhi,1000000,A. Sharma,Mid-Market,33,B,Active
+CUST0384,Zenith Industries,FMCG,East,Delhi,500000,N. Verma,SME,68,C,Active
+CUST0385,Apex Industries,Construction,North,Delhi,3000000,A. Sharma,Mid-Market,75,D,Active
+CUST0386,Alpha Pharma,FMCG,West,Bengaluru,1500000,P. Mehta,SME,46,B,Active
+CUST0387,Global Logistics,Automotive,East,Delhi,750000,R. Singh,Mid-Market,21,A,Active
+CUST0388,Beta Traders,Construction,South,Chennai,250000,V. Rao,SME,39,B,Active
+CUST0389,Delta Industries,Healthcare,North,Mumbai,750000,P. Mehta,Mid-Market,50,B,Active
+CUST0390,Gamma Industries,Construction,East,Hyderabad,750000,K. Gupta,Enterprise,80,D,Active
+CUST0391,Apex Enterprises,Retail,East,Jaipur,250000,N. Verma,Enterprise,75,D,Active
+CUST0392,Nova Pharma,FMCG,North,Kolkata,1500000,K. Gupta,Mid-Market,48,B,Active
+CUST0393,Delta Foods,IT Services,East,Bengaluru,3000000,N. Verma,SME,77,D,Active
+CUST0394,Gamma Logistics,IT Services,North,Kolkata,1500000,S. Kapoor,Enterprise,67,C,Active
+CUST0395,Delta Logistics,Healthcare,East,Delhi,2000000,A. Sharma,Mid-Market,62,C,Inactive
+CUST0396,Vertex Solutions,Healthcare,North,Mumbai,2000000,A. Sharma,Mid-Market,30,A,Active
+CUST0397,Prime Industries,Pharma,East,Kolkata,2000000,K. Gupta,Enterprise,53,C,Inactive
+CUST0398,Nova Pharma,Manufacturing,East,Chennai,1500000,V. Rao,SME,32,B,Active
+CUST0399,Prime Retail,Automotive,West,Delhi,1000000,S. Kapoor,Mid-Market,76,D,Active
+CUST0400,Delta Retail,FMCG,West,Jaipur,1500000,K. Gupta,Enterprise,76,D,Active
+CUST0401,Global Traders,Automotive,South,Hyderabad,500000,P. Mehta,SME,28,A,Active
+CUST0402,Delta Retail,FMCG,West,Chennai,3000000,S. Kapoor,Enterprise,44,B,Active
+CUST0403,Global Traders,FMCG,East,Delhi,250000,N. Verma,Mid-Market,64,C,Active
+CUST0404,Global Pharma,Construction,West,Chennai,2000000,A. Sharma,Enterprise,22,A,Active
+CUST0405,Prime Traders,Retail,North,Bengaluru,2000000,V. Rao,Enterprise,70,C,Active
+CUST0406,Vertex Industries,Healthcare,East,Jaipur,250000,S. Kapoor,Mid-Market,73,D,Active
+CUST0407,Nova Retail,IT Services,South,Chennai,2000000,P. Mehta,Mid-Market,72,D,Active
+CUST0408,Beta Enterprises,Automotive,South,Jaipur,1500000,N. Verma,Enterprise,39,B,Active
+CUST0409,Alpha Traders,Construction,South,Hyderabad,500000,K. Gupta,Enterprise,16,A,Active
+CUST0410,Gamma Retail,Pharma,South,Hyderabad,1000000,S. Kapoor,SME,15,A,Active
+CUST0411,Vertex Foods,Retail,South,Jaipur,2000000,S. Kapoor,Mid-Market,21,A,Active
+CUST0412,Alpha Pharma,Retail,East,Mumbai,750000,N. Verma,SME,71,D,Active
+CUST0413,Beta Enterprises,Retail,South,Jaipur,250000,V. Rao,Enterprise,24,A,Active
+CUST0414,Global Logistics,Construction,South,Pune,2000000,N. Verma,Enterprise,76,D,Active
+CUST0415,Vertex Pharma,Construction,West,Bengaluru,250000,P. Mehta,SME,61,C,Active
+CUST0416,Vertex Enterprises,Manufacturing,East,Hyderabad,3000000,R. Singh,Mid-Market,58,C,Active
+CUST0417,Nova Industries,FMCG,East,Bengaluru,1000000,R. Singh,Enterprise,28,A,Active
+CUST0418,Nova Pharma,FMCG,East,Mumbai,250000,A. Sharma,Enterprise,58,C,Inactive
+CUST0419,Nova Enterprises,Construction,South,Kolkata,500000,A. Sharma,Mid-Market,77,D,Inactive
+CUST0420,Beta Logistics,Manufacturing,East,Hyderabad,1000000,N. Verma,Mid-Market,48,B,Active
+CUST0421,Delta Pharma,Retail,South,Pune,3000000,A. Sharma,Mid-Market,19,A,Active
+CUST0422,Alpha Foods,Construction,East,Pune,2000000,V. Rao,Mid-Market,45,B,Active
+CUST0423,Beta Pharma,IT Services,South,Chennai,2000000,A. Sharma,SME,62,C,Active
+CUST0424,Zenith Pharma,IT Services,East,Jaipur,500000,A. Sharma,SME,62,C,Active
+CUST0425,Global Pharma,Retail,North,Mumbai,250000,S. Kapoor,SME,76,D,Active
+CUST0426,Gamma Foods,Healthcare,North,Kolkata,1000000,A. Sharma,SME,23,A,Active
+CUST0427,Prime Industries,FMCG,West,Pune,3000000,K. Gupta,Mid-Market,38,B,Active
+CUST0428,Prime Enterprises,Healthcare,South,Chennai,1500000,S. Kapoor,Enterprise,58,C,Active
+CUST0429,Zenith Solutions,Automotive,South,Kolkata,500000,A. Sharma,Mid-Market,34,B,Active
+CUST0430,Zenith Retail,FMCG,South,Delhi,1000000,A. Sharma,SME,32,B,Active
+CUST0431,Alpha Industries,Construction,West,Pune,250000,R. Singh,Mid-Market,18,A,Active
+CUST0432,Nova Industries,Pharma,West,Chennai,1500000,R. Singh,Mid-Market,46,B,Active
+CUST0433,Global Industries,Retail,South,Jaipur,500000,N. Verma,SME,70,C,Active
+CUST0434,Nova Foods,Automotive,South,Hyderabad,1500000,R. Singh,SME,27,A,Active
+CUST0435,Delta Industries,FMCG,South,Hyderabad,500000,A. Sharma,SME,38,B,Active
+CUST0436,Vertex Retail,Automotive,North,Bengaluru,3000000,P. Mehta,Enterprise,74,D,Active
+CUST0437,Alpha Logistics,IT Services,North,Jaipur,3000000,A. Sharma,SME,24,A,Active
+CUST0438,Apex Enterprises,Pharma,South,Hyderabad,2000000,V. Rao,Enterprise,41,B,Active
+CUST0439,Alpha Traders,Automotive,East,Delhi,1000000,A. Sharma,SME,30,A,Active
+CUST0440,Vertex Industries,Retail,West,Hyderabad,3000000,V. Rao,Mid-Market,52,C,Active
+CUST0441,Zenith Traders,Construction,South,Bengaluru,500000,V. Rao,SME,51,C,Active
+CUST0442,Alpha Logistics,Automotive,West,Delhi,500000,K. Gupta,SME,74,D,Active
+CUST0443,Alpha Enterprises,Pharma,South,Kolkata,250000,P. Mehta,Mid-Market,29,A,Active
+CUST0444,Vertex Pharma,FMCG,North,Mumbai,500000,A. Sharma,SME,80,D,Active
+CUST0445,Alpha Foods,Retail,North,Mumbai,1500000,A. Sharma,Mid-Market,39,B,Active
+CUST0446,Apex Enterprises,Automotive,West,Jaipur,1000000,N. Verma,SME,42,B,Active
+CUST0447,Apex Industries,IT Services,South,Bengaluru,2000000,V. Rao,Mid-Market,15,A,Active
+CUST0448,Delta Pharma,Automotive,East,Jaipur,1500000,K. Gupta,Mid-Market,23,A,Active
+CUST0449,Alpha Foods,Pharma,East,Mumbai,2000000,A. Sharma,SME,32,B,Active
+CUST0450,Nova Foods,Construction,South,Hyderabad,500000,V. Rao,Enterprise,71,D,Active
+CUST0451,Delta Foods,IT Services,East,Jaipur,1500000,K. Gupta,SME,28,A,Active
+CUST0452,Zenith Solutions,Pharma,South,Delhi,3000000,S. Kapoor,Mid-Market,80,D,Active
+CUST0453,Alpha Foods,Construction,East,Kolkata,2000000,N. Verma,Mid-Market,59,C,Active
+CUST0454,Nova Industries,Pharma,North,Mumbai,1500000,V. Rao,Mid-Market,41,B,Active
+CUST0455,Apex Logistics,Healthcare,East,Pune,3000000,A. Sharma,Mid-Market,63,C,Active
+CUST0456,Gamma Traders,IT Services,North,Delhi,2000000,V. Rao,SME,50,B,Active
+CUST0457,Alpha Pharma,Manufacturing,West,Kolkata,2000000,K. Gupta,Mid-Market,47,B,Active
+CUST0458,Beta Foods,FMCG,West,Bengaluru,250000,A. Sharma,Mid-Market,44,B,Active
+CUST0459,Beta Pharma,Automotive,North,Jaipur,3000000,N. Verma,SME,21,A,Active
+CUST0460,Prime Foods,Retail,North,Pune,250000,V. Rao,Enterprise,23,A,Active
+CUST0461,Apex Foods,Pharma,East,Bengaluru,2000000,N. Verma,Enterprise,31,B,Active
+CUST0462,Apex Traders,IT Services,East,Delhi,1000000,R. Singh,Enterprise,60,C,Active
+CUST0463,Global Pharma,Pharma,North,Kolkata,2000000,V. Rao,Mid-Market,54,C,Active
+CUST0464,Delta Foods,Automotive,South,Pune,2000000,K. Gupta,SME,77,D,Active
+CUST0465,Nova Pharma,IT Services,East,Hyderabad,1000000,A. Sharma,Mid-Market,75,D,Active
+CUST0466,Global Logistics,Manufacturing,West,Mumbai,1000000,R. Singh,Enterprise,74,D,Active
+CUST0467,Global Logistics,Pharma,East,Jaipur,1000000,A. Sharma,SME,67,C,Active
+CUST0468,Beta Retail,Manufacturing,South,Jaipur,1500000,N. Verma,Mid-Market,20,A,Active
+CUST0469,Alpha Industries,Manufacturing,North,Kolkata,1000000,P. Mehta,SME,72,D,Active
+CUST0470,Vertex Traders,Retail,East,Kolkata,1000000,R. Singh,Mid-Market,73,D,Active
+CUST0471,Nova Logistics,Healthcare,West,Delhi,500000,R. Singh,Enterprise,73,D,Active
+CUST0472,Gamma Logistics,Healthcare,East,Hyderabad,1000000,A. Sharma,Enterprise,78,D,Active
+CUST0473,Prime Traders,IT Services,North,Mumbai,500000,R. Singh,Mid-Market,58,C,Active
+CUST0474,Apex Enterprises,Healthcare,South,Hyderabad,1000000,N. Verma,Enterprise,74,D,Active
+CUST0475,Zenith Industries,IT Services,North,Pune,250000,K. Gupta,SME,78,D,Active
+CUST0476,Vertex Pharma,FMCG,South,Jaipur,1000000,P. Mehta,Mid-Market,67,C,Active
+CUST0477,Delta Industries,Healthcare,West,Hyderabad,750000,N. Verma,Enterprise,23,A,Active
+CUST0478,Global Pharma,Retail,North,Kolkata,2000000,V. Rao,Enterprise,32,B,Active
+CUST0479,Delta Traders,Retail,South,Mumbai,3000000,N. Verma,Mid-Market,31,B,Active
+CUST0480,Gamma Enterprises,Automotive,North,Mumbai,750000,P. Mehta,Mid-Market,16,A,Active
+CUST0481,Alpha Enterprises,FMCG,East,Mumbai,1000000,A. Sharma,SME,49,B,Active
+CUST0482,Vertex Solutions,Manufacturing,West,Kolkata,250000,P. Mehta,SME,28,A,Active
+CUST0483,Global Foods,Manufacturing,West,Bengaluru,2000000,A. Sharma,SME,66,C,Active
+CUST0484,Vertex Foods,Pharma,East,Pune,1000000,K. Gupta,Enterprise,21,A,Active
+CUST0485,Global Traders,Retail,West,Jaipur,1000000,N. Verma,Mid-Market,57,C,Active
+CUST0486,Apex Solutions,Construction,North,Pune,2000000,A. Sharma,SME,36,B,Active
+CUST0487,Prime Enterprises,Retail,East,Jaipur,250000,N. Verma,Mid-Market,65,C,Active
+CUST0488,Beta Pharma,Automotive,West,Hyderabad,3000000,S. Kapoor,SME,61,C,Active
+CUST0489,Global Solutions,FMCG,West,Pune,250000,A. Sharma,Enterprise,20,A,Active
+CUST0490,Alpha Solutions,Automotive,East,Kolkata,3000000,P. Mehta,SME,28,A,Active
+CUST0491,Vertex Foods,Automotive,East,Hyderabad,1000000,A. Sharma,Mid-Market,36,B,Active
+CUST0492,Apex Retail,Healthcare,East,Pune,750000,S. Kapoor,SME,66,C,Active
+CUST0493,Gamma Traders,Construction,West,Jaipur,2000000,A. Sharma,SME,26,A,Active
+CUST0494,Global Enterprises,Pharma,South,Pune,750000,R. Singh,SME,29,A,Active
+CUST0495,Alpha Enterprises,Automotive,South,Pune,1000000,A. Sharma,Enterprise,79,D,Active
+CUST0496,Zenith Industries,FMCG,South,Mumbai,500000,N. Verma,Enterprise,71,D,Active
+CUST0497,Delta Traders,Manufacturing,West,Hyderabad,2000000,K. Gupta,Enterprise,39,B,Active
+CUST0498,Zenith Logistics,Manufacturing,South,Chennai,3000000,N. Verma,Mid-Market,25,A,Active
+CUST0499,Vertex Traders,Pharma,South,Bengaluru,500000,K. Gupta,Enterprise,41,B,Active
+CUST0500,Delta Foods,FMCG,East,Pune,250000,V. Rao,SME,60,C,Active
+CUST0501,Gamma Enterprises,Healthcare,North,Chennai,2000000,V. Rao,Enterprise,53,C,Active
+CUST0502,Apex Solutions,Pharma,East,Mumbai,1000000,A. Sharma,Mid-Market,56,C,Active
+CUST0503,Delta Pharma,Healthcare,North,Chennai,500000,V. Rao,SME,46,B,Active
+CUST0504,Delta Solutions,Healthcare,West,Pune,500000,K. Gupta,Enterprise,78,D,Active
+CUST0505,Global Enterprises,Retail,South,Hyderabad,500000,R. Singh,SME,25,A,Active
+CUST0506,Global Foods,IT Services,West,Delhi,750000,V. Rao,SME,52,C,Active
+CUST0507,Alpha Foods,Healthcare,South,Pune,1500000,P. Mehta,SME,32,B,Active
+CUST0508,Vertex Solutions,Manufacturing,South,Kolkata,1500000,S. Kapoor,Enterprise,23,A,Active
+CUST0509,Apex Retail,FMCG,East,Pune,750000,N. Verma,SME,48,B,Active
+CUST0510,Delta Traders,Automotive,North,Jaipur,1000000,A. Sharma,Mid-Market,22,A,Active
+CUST0511,Vertex Industries,FMCG,West,Bengaluru,1500000,A. Sharma,Enterprise,77,D,Active
+CUST0512,Vertex Solutions,Retail,South,Delhi,1500000,K. Gupta,SME,21,A,Active
+CUST0513,Vertex Enterprises,IT Services,West,Mumbai,750000,S. Kapoor,Enterprise,76,D,Active
+CUST0514,Zenith Solutions,Construction,North,Jaipur,3000000,R. Singh,Enterprise,77,D,Active
+CUST0515,Zenith Enterprises,Automotive,South,Bengaluru,500000,S. Kapoor,Enterprise,75,D,Active
+CUST0516,Beta Solutions,Healthcare,North,Hyderabad,250000,S. Kapoor,SME,38,B,Active
+CUST0517,Alpha Retail,Construction,South,Kolkata,250000,P. Mehta,Enterprise,41,B,Active
+CUST0518,Beta Traders,Retail,East,Kolkata,3000000,N. Verma,SME,68,C,Active
+CUST0519,Alpha Logistics,Pharma,West,Bengaluru,250000,K. Gupta,Enterprise,20,A,Active
+CUST0520,Delta Enterprises,Automotive,West,Mumbai,1500000,V. Rao,Enterprise,59,C,Active
+CUST0521,Beta Foods,Retail,South,Bengaluru,750000,A. Sharma,Mid-Market,38,B,Active
+CUST0522,Global Traders,Construction,South,Chennai,500000,P. Mehta,Enterprise,74,D,Active
+CUST0523,Apex Foods,Pharma,East,Bengaluru,250000,R. Singh,Enterprise,51,C,Active
+CUST0524,Alpha Enterprises,FMCG,East,Hyderabad,2000000,N. Verma,SME,54,C,Active
+CUST0525,Gamma Foods,Retail,West,Pune,250000,N. Verma,Enterprise,71,D,Active
+CUST0526,Delta Industries,IT Services,West,Hyderabad,500000,P. Mehta,SME,58,C,Active
+CUST0527,Alpha Solutions,Healthcare,North,Mumbai,3000000,N. Verma,Enterprise,41,B,Active
+CUST0528,Nova Logistics,Manufacturing,South,Chennai,250000,K. Gupta,Mid-Market,18,A,Inactive
+CUST0529,Gamma Logistics,FMCG,North,Hyderabad,2000000,R. Singh,SME,58,C,Active
+CUST0530,Global Pharma,FMCG,South,Bengaluru,1000000,S. Kapoor,Mid-Market,36,B,Active
+CUST0531,Apex Enterprises,Manufacturing,West,Delhi,500000,N. Verma,Mid-Market,64,C,Active
+CUST0532,Beta Enterprises,Pharma,West,Mumbai,750000,A. Sharma,Enterprise,22,A,Active
+CUST0533,Delta Industries,Manufacturing,East,Kolkata,1000000,A. Sharma,SME,80,D,Active
+CUST0534,Global Pharma,FMCG,North,Delhi,2000000,A. Sharma,Enterprise,35,B,Active
+CUST0535,Apex Retail,Retail,East,Bengaluru,500000,V. Rao,Mid-Market,43,B,Active
+CUST0536,Vertex Traders,Construction,South,Hyderabad,3000000,P. Mehta,Mid-Market,49,B,Active
+CUST0537,Alpha Enterprises,Retail,South,Hyderabad,2000000,K. Gupta,Enterprise,59,C,Active
+CUST0538,Prime Enterprises,Pharma,East,Bengaluru,750000,K. Gupta,Mid-Market,77,D,Active
+CUST0539,Prime Solutions,Construction,North,Jaipur,3000000,R. Singh,SME,47,B,Active
+CUST0540,Zenith Logistics,Healthcare,East,Bengaluru,3000000,R. Singh,Mid-Market,20,A,Active
+CUST0541,Alpha Solutions,FMCG,East,Bengaluru,750000,R. Singh,Enterprise,64,C,Active
+CUST0542,Beta Solutions,Pharma,South,Kolkata,500000,V. Rao,Enterprise,38,B,Active
+CUST0543,Nova Foods,Automotive,North,Jaipur,1000000,N. Verma,Mid-Market,24,A,Active
+CUST0544,Alpha Pharma,IT Services,North,Bengaluru,250000,V. Rao,SME,55,C,Active
+CUST0545,Global Solutions,FMCG,East,Hyderabad,3000000,R. Singh,SME,66,C,Active
+CUST0546,Delta Foods,IT Services,South,Delhi,1000000,K. Gupta,Mid-Market,32,B,Active
+CUST0547,Gamma Logistics,FMCG,North,Chennai,3000000,A. Sharma,Enterprise,49,B,Active
+CUST0548,Beta Retail,Retail,North,Kolkata,1500000,P. Mehta,SME,72,D,Active
+CUST0549,Beta Industries,Retail,South,Bengaluru,1000000,K. Gupta,SME,59,C,Active
+CUST0550,Gamma Traders,Construction,North,Jaipur,3000000,S. Kapoor,Enterprise,80,D,Active
+CUST0551,Global Industries,Retail,South,Chennai,500000,K. Gupta,Enterprise,53,C,Active
+CUST0552,Apex Enterprises,Automotive,South,Kolkata,250000,R. Singh,Enterprise,20,A,Active
+CUST0553,Nova Pharma,Retail,North,Jaipur,500000,P. Mehta,Enterprise,36,B,Active
+CUST0554,Nova Enterprises,Construction,South,Delhi,3000000,S. Kapoor,Mid-Market,76,D,Active
+CUST0555,Prime Foods,IT Services,East,Pune,2000000,S. Kapoor,Mid-Market,21,A,Active
+CUST0556,Zenith Pharma,Pharma,East,Bengaluru,2000000,K. Gupta,SME,65,C,Active
+CUST0557,Global Industries,IT Services,East,Chennai,500000,P. Mehta,Mid-Market,62,C,Active
+CUST0558,Alpha Retail,FMCG,East,Pune,750000,V. Rao,Enterprise,45,B,Active
+CUST0559,Alpha Enterprises,Manufacturing,East,Hyderabad,2000000,S. Kapoor,Enterprise,52,C,Active
+CUST0560,Global Retail,Healthcare,North,Pune,2000000,S. Kapoor,Enterprise,48,B,Active
+CUST0561,Alpha Foods,Pharma,East,Chennai,250000,A. Sharma,Enterprise,55,C,Active
+CUST0562,Beta Solutions,Automotive,South,Bengaluru,250000,K. Gupta,Enterprise,70,C,Active
+CUST0563,Zenith Enterprises,Automotive,South,Pune,3000000,P. Mehta,SME,23,A,Active
+CUST0564,Nova Solutions,Healthcare,West,Hyderabad,750000,P. Mehta,Enterprise,24,A,Active
+CUST0565,Delta Foods,Pharma,West,Pune,750000,R. Singh,SME,42,B,Active
+CUST0566,Apex Traders,Retail,East,Kolkata,500000,R. Singh,SME,38,B,Active
+CUST0567,Alpha Foods,Healthcare,East,Bengaluru,2000000,R. Singh,Mid-Market,18,A,Active
+CUST0568,Zenith Logistics,Pharma,West,Bengaluru,1500000,P. Mehta,Enterprise,44,B,Active
+CUST0569,Alpha Retail,Manufacturing,North,Chennai,250000,P. Mehta,Mid-Market,53,C,Active
+CUST0570,Delta Pharma,Manufacturing,East,Mumbai,750000,K. Gupta,SME,52,C,Active
+CUST0571,Zenith Enterprises,Pharma,East,Pune,250000,V. Rao,SME,48,B,Active
+CUST0572,Nova Logistics,IT Services,North,Kolkata,1000000,N. Verma,Enterprise,64,C,Active
+CUST0573,Nova Logistics,Construction,North,Hyderabad,3000000,S. Kapoor,SME,55,C,Active
+CUST0574,Gamma Traders,Healthcare,East,Pune,1500000,K. Gupta,Mid-Market,32,B,Active
+CUST0575,Vertex Enterprises,FMCG,South,Kolkata,750000,N. Verma,SME,15,A,Active
+CUST0576,Zenith Retail,Healthcare,South,Bengaluru,250000,V. Rao,Mid-Market,39,B,Active
+CUST0577,Global Enterprises,Retail,South,Hyderabad,750000,S. Kapoor,SME,51,C,Active
+CUST0578,Delta Pharma,Construction,East,Kolkata,500000,P. Mehta,SME,67,C,Active
+CUST0579,Gamma Enterprises,Pharma,North,Delhi,250000,V. Rao,Enterprise,28,A,Active
+CUST0580,Apex Industries,FMCG,North,Kolkata,3000000,K. Gupta,Mid-Market,71,D,Active
+CUST0581,Beta Traders,Healthcare,South,Pune,250000,N. Verma,Enterprise,26,A,Active
+CUST0582,Prime Logistics,Automotive,East,Mumbai,2000000,K. Gupta,Mid-Market,58,C,Active
+CUST0583,Prime Solutions,Healthcare,West,Chennai,500000,P. Mehta,SME,48,B,Active
+CUST0584,Zenith Logistics,Healthcare,East,Hyderabad,750000,P. Mehta,Enterprise,35,B,Active
+CUST0585,Gamma Industries,Automotive,East,Kolkata,3000000,V. Rao,SME,79,D,Active
+CUST0586,Alpha Logistics,IT Services,South,Jaipur,1000000,S. Kapoor,SME,54,C,Active
+CUST0587,Delta Foods,IT Services,West,Bengaluru,1500000,V. Rao,Enterprise,70,C,Active
+CUST0588,Apex Enterprises,FMCG,South,Kolkata,750000,V. Rao,SME,51,C,Active
+CUST0589,Beta Retail,Construction,North,Hyderabad,3000000,R. Singh,Enterprise,38,B,Active
+CUST0590,Nova Solutions,Pharma,North,Bengaluru,1500000,K. Gupta,Enterprise,41,B,Active
+CUST0591,Zenith Enterprises,Retail,East,Pune,750000,A. Sharma,Enterprise,79,D,Inactive
+CUST0592,Vertex Foods,Construction,North,Delhi,250000,A. Sharma,Mid-Market,51,C,Active
+CUST0593,Beta Traders,Pharma,East,Delhi,1000000,P. Mehta,Enterprise,22,A,Inactive
+CUST0594,Prime Solutions,Healthcare,East,Hyderabad,250000,P. Mehta,SME,75,D,Active
+CUST0595,Vertex Pharma,Construction,East,Kolkata,250000,N. Verma,Enterprise,71,D,Active
+CUST0596,Zenith Pharma,FMCG,West,Chennai,1000000,V. Rao,Mid-Market,42,B,Inactive
+CUST0597,Gamma Retail,Manufacturing,West,Pune,750000,K. Gupta,Mid-Market,22,A,Active
+CUST0598,Nova Pharma,Manufacturing,West,Kolkata,2000000,P. Mehta,SME,17,A,Active
+CUST0599,Zenith Retail,IT Services,West,Chennai,500000,R. Singh,Enterprise,43,B,Active
+CUST0600,Apex Enterprises,IT Services,South,Jaipur,1500000,V. Rao,Mid-Market,51,C,Active
+CUST0601,Beta Industries,Retail,South,Bengaluru,250000,A. Sharma,Enterprise,57,C,Active
+CUST0602,Apex Retail,Pharma,East,Delhi,250000,R. Singh,Enterprise,48,B,Active
+CUST0603,Beta Retail,Construction,North,Chennai,1000000,K. Gupta,Enterprise,15,A,Active
+CUST0604,Delta Pharma,Retail,East,Jaipur,2000000,K. Gupta,Enterprise,55,C,Active
+CUST0605,Gamma Enterprises,Automotive,North,Bengaluru,750000,R. Singh,Enterprise,43,B,Active
+CUST0606,Gamma Solutions,Retail,East,Hyderabad,2000000,A. Sharma,Enterprise,80,D,Active
+CUST0607,Delta Industries,Healthcare,East,Kolkata,2000000,P. Mehta,Mid-Market,72,D,Active
+CUST0608,Gamma Traders,Retail,North,Pune,750000,P. Mehta,SME,64,C,Active
+CUST0609,Gamma Foods,Healthcare,South,Mumbai,750000,P. Mehta,Mid-Market,73,D,Active
+CUST0610,Global Enterprises,Healthcare,West,Hyderabad,1000000,K. Gupta,Enterprise,38,B,Active
+CUST0611,Nova Industries,Pharma,East,Chennai,750000,S. Kapoor,Enterprise,70,C,Active
+CUST0612,Alpha Solutions,Pharma,North,Jaipur,500000,V. Rao,Mid-Market,78,D,Active
+CUST0613,Prime Solutions,Construction,North,Mumbai,250000,S. Kapoor,Enterprise,65,C,Active
+CUST0614,Alpha Pharma,Healthcare,East,Kolkata,1500000,A. Sharma,Enterprise,31,B,Active
+CUST0615,Delta Traders,IT Services,West,Jaipur,1000000,N. Verma,SME,72,D,Active
+CUST0616,Zenith Logistics,Manufacturing,West,Kolkata,750000,A. Sharma,Mid-Market,64,C,Inactive
+CUST0617,Apex Logistics,Manufacturing,North,Jaipur,250000,N. Verma,SME,42,B,Active
+CUST0618,Prime Pharma,Retail,North,Bengaluru,750000,K. Gupta,Enterprise,58,C,Active
+CUST0619,Nova Foods,IT Services,South,Hyderabad,1000000,P. Mehta,Mid-Market,75,D,Active
+CUST0620,Alpha Industries,IT Services,West,Jaipur,2000000,P. Mehta,Enterprise,39,B,Active
+CUST0621,Gamma Foods,IT Services,South,Pune,1000000,N. Verma,Enterprise,20,A,Inactive
+CUST0622,Apex Logistics,Manufacturing,North,Chennai,3000000,P. Mehta,Mid-Market,80,D,Active
+CUST0623,Alpha Traders,Retail,West,Kolkata,1000000,A. Sharma,Enterprise,27,A,Active
+CUST0624,Apex Logistics,Healthcare,North,Chennai,750000,N. Verma,Enterprise,48,B,Active
+CUST0625,Beta Industries,Pharma,South,Delhi,500000,S. Kapoor,Enterprise,57,C,Active
+CUST0626,Beta Logistics,Retail,North,Jaipur,500000,K. Gupta,SME,55,C,Active
+CUST0627,Apex Logistics,Manufacturing,East,Delhi,750000,A. Sharma,Enterprise,63,C,Active
+CUST0628,Zenith Pharma,Healthcare,North,Pune,2000000,K. Gupta,Mid-Market,72,D,Active
+CUST0629,Global Retail,Manufacturing,West,Mumbai,2000000,N. Verma,SME,15,A,Active
+CUST0630,Global Foods,Construction,South,Chennai,500000,R. Singh,SME,62,C,Active
+CUST0631,Global Solutions,IT Services,West,Delhi,2000000,R. Singh,Enterprise,34,B,Active
+CUST0632,Nova Enterprises,Manufacturing,East,Chennai,2000000,S. Kapoor,SME,40,B,Active
+CUST0633,Zenith Pharma,Retail,South,Bengaluru,2000000,N. Verma,Enterprise,22,A,Active
+CUST0634,Zenith Enterprises,Construction,East,Jaipur,3000000,S. Kapoor,Mid-Market,68,C,Inactive
+CUST0635,Beta Solutions,Retail,East,Kolkata,1500000,A. Sharma,Mid-Market,49,B,Active
+CUST0636,Zenith Logistics,Construction,North,Kolkata,750000,R. Singh,SME,29,A,Active
+CUST0637,Prime Solutions,FMCG,North,Chennai,3000000,N. Verma,Enterprise,28,A,Active
+CUST0638,Zenith Logistics,Healthcare,North,Delhi,1000000,A. Sharma,Enterprise,31,B,Active
+CUST0639,Nova Enterprises,Construction,West,Mumbai,250000,N. Verma,SME,56,C,Active
+CUST0640,Global Retail,Pharma,West,Kolkata,500000,S. Kapoor,SME,28,A,Active
+CUST0641,Delta Pharma,FMCG,North,Bengaluru,1500000,P. Mehta,SME,55,C,Active
+CUST0642,Nova Retail,FMCG,West,Kolkata,1500000,S. Kapoor,SME,67,C,Active
+CUST0643,Global Logistics,Manufacturing,West,Pune,750000,P. Mehta,Mid-Market,67,C,Active
+CUST0644,Gamma Traders,Retail,North,Pune,2000000,N. Verma,SME,73,D,Active
+CUST0645,Nova Industries,Automotive,East,Kolkata,2000000,V. Rao,SME,73,D,Active
+CUST0646,Beta Industries,Healthcare,North,Chennai,250000,V. Rao,Mid-Market,35,B,Active
+CUST0647,Apex Pharma,FMCG,South,Mumbai,2000000,V. Rao,Enterprise,76,D,Active
+CUST0648,Global Retail,Automotive,East,Bengaluru,1500000,S. Kapoor,SME,26,A,Inactive
+CUST0649,Apex Solutions,Manufacturing,East,Bengaluru,1500000,A. Sharma,SME,59,C,Active
+CUST0650,Delta Enterprises,Manufacturing,East,Kolkata,750000,A. Sharma,Enterprise,37,B,Active
+CUST0651,Zenith Industries,Retail,East,Pune,1500000,K. Gupta,SME,76,D,Active
+CUST0652,Alpha Logistics,Retail,South,Pune,750000,S. Kapoor,SME,75,D,Active
+CUST0653,Delta Solutions,Manufacturing,South,Bengaluru,3000000,V. Rao,SME,19,A,Active
+CUST0654,Global Pharma,Healthcare,South,Pune,250000,S. Kapoor,Enterprise,17,A,Active
+CUST0655,Vertex Solutions,IT Services,North,Chennai,1000000,V. Rao,SME,70,C,Active
+CUST0656,Global Pharma,Pharma,West,Bengaluru,2000000,K. Gupta,Enterprise,34,B,Active
+CUST0657,Nova Solutions,FMCG,South,Hyderabad,500000,N. Verma,Enterprise,16,A,Active
+CUST0658,Vertex Foods,Automotive,North,Pune,1000000,R. Singh,Enterprise,40,B,Active
+CUST0659,Global Logistics,IT Services,North,Kolkata,500000,S. Kapoor,Enterprise,31,B,Active
+CUST0660,Alpha Retail,FMCG,East,Bengaluru,250000,V. Rao,SME,31,B,Active
+CUST0661,Apex Pharma,Automotive,North,Chennai,750000,S. Kapoor,Enterprise,49,B,Active
+CUST0662,Alpha Retail,Pharma,North,Chennai,1000000,S. Kapoor,Enterprise,57,C,Active
+CUST0663,Zenith Retail,Construction,South,Pune,2000000,A. Sharma,SME,37,B,Active
+CUST0664,Alpha Foods,Pharma,East,Pune,1000000,A. Sharma,Enterprise,66,C,Active
+CUST0665,Global Enterprises,Manufacturing,South,Delhi,250000,A. Sharma,Mid-Market,30,A,Active
+CUST0666,Delta Traders,Retail,South,Hyderabad,750000,A. Sharma,Enterprise,48,B,Active
+CUST0667,Nova Pharma,IT Services,West,Jaipur,2000000,V. Rao,SME,21,A,Active
+CUST0668,Prime Industries,Manufacturing,West,Bengaluru,500000,N. Verma,SME,47,B,Active
+CUST0669,Nova Traders,FMCG,East,Mumbai,2000000,V. Rao,SME,38,B,Active
+CUST0670,Vertex Retail,Retail,East,Chennai,750000,P. Mehta,SME,29,A,Active
+CUST0671,Zenith Enterprises,Manufacturing,North,Mumbai,250000,V. Rao,Mid-Market,25,A,Active
+CUST0672,Global Pharma,FMCG,West,Hyderabad,750000,R. Singh,Enterprise,15,A,Active
+CUST0673,Nova Enterprises,Healthcare,East,Pune,3000000,S. Kapoor,Enterprise,76,D,Active
+CUST0674,Global Industries,Manufacturing,South,Mumbai,500000,N. Verma,Mid-Market,67,C,Active
+CUST0675,Beta Foods,Manufacturing,East,Chennai,250000,P. Mehta,Mid-Market,25,A,Active
+CUST0676,Beta Retail,Automotive,East,Delhi,500000,R. Singh,SME,15,A,Active
+CUST0677,Zenith Logistics,Healthcare,South,Mumbai,2000000,N. Verma,Mid-Market,61,C,Active
+CUST0678,Gamma Pharma,FMCG,South,Hyderabad,500000,N. Verma,SME,56,C,Active
+CUST0679,Gamma Enterprises,Retail,East,Hyderabad,250000,V. Rao,SME,36,B,Active
+CUST0680,Beta Pharma,IT Services,East,Bengaluru,500000,A. Sharma,SME,19,A,Active
+CUST0681,Prime Traders,IT Services,South,Pune,250000,R. Singh,Enterprise,16,A,Active
+CUST0682,Beta Logistics,IT Services,North,Chennai,2000000,S. Kapoor,SME,24,A,Active
+CUST0683,Zenith Retail,Automotive,West,Jaipur,250000,S. Kapoor,Mid-Market,18,A,Active
+CUST0684,Nova Logistics,Automotive,East,Jaipur,750000,R. Singh,Enterprise,40,B,Active
+CUST0685,Delta Enterprises,Construction,West,Bengaluru,250000,P. Mehta,Mid-Market,79,D,Active
+CUST0686,Alpha Logistics,Retail,South,Chennai,250000,V. Rao,Enterprise,42,B,Active
+CUST0687,Gamma Solutions,Retail,North,Bengaluru,250000,A. Sharma,Mid-Market,75,D,Active
+CUST0688,Apex Industries,Healthcare,West,Jaipur,750000,N. Verma,SME,16,A,Active
+CUST0689,Vertex Logistics,Healthcare,East,Mumbai,1500000,V. Rao,Enterprise,50,B,Active
+CUST0690,Apex Traders,IT Services,West,Delhi,3000000,A. Sharma,SME,32,B,Active
+CUST0691,Beta Logistics,Pharma,West,Hyderabad,2000000,N. Verma,Mid-Market,66,C,Active
+CUST0692,Alpha Solutions,FMCG,East,Hyderabad,250000,R. Singh,Enterprise,45,B,Active
+CUST0693,Delta Logistics,Healthcare,North,Jaipur,1500000,V. Rao,Enterprise,43,B,Active
+CUST0694,Beta Logistics,Manufacturing,South,Hyderabad,1000000,S. Kapoor,Mid-Market,59,C,Active
+CUST0695,Prime Solutions,Healthcare,West,Chennai,750000,S. Kapoor,SME,49,B,Active
+CUST0696,Gamma Enterprises,IT Services,South,Mumbai,1500000,V. Rao,Enterprise,49,B,Active
+CUST0697,Gamma Pharma,IT Services,North,Kolkata,750000,R. Singh,Enterprise,45,B,Active
+CUST0698,Apex Industries,Construction,West,Chennai,500000,V. Rao,Enterprise,37,B,Active
+CUST0699,Prime Logistics,Automotive,East,Chennai,2000000,R. Singh,Enterprise,78,D,Inactive
+CUST0700,Global Retail,Automotive,North,Hyderabad,750000,P. Mehta,Mid-Market,40,B,Active
+CUST0701,Zenith Industries,Pharma,North,Pune,250000,K. Gupta,Mid-Market,26,A,Inactive
+CUST0702,Alpha Retail,IT Services,South,Chennai,500000,P. Mehta,Enterprise,21,A,Active
+CUST0703,Delta Solutions,Healthcare,North,Mumbai,250000,N. Verma,Enterprise,53,C,Active
+CUST0704,Alpha Pharma,IT Services,South,Pune,500000,K. Gupta,SME,39,B,Active
+CUST0705,Global Foods,Pharma,South,Delhi,1000000,P. Mehta,SME,45,B,Active
+CUST0706,Gamma Pharma,Manufacturing,South,Pune,2000000,R. Singh,Mid-Market,80,D,Inactive
+CUST0707,Apex Enterprises,Healthcare,North,Bengaluru,750000,A. Sharma,Enterprise,15,A,Active
+CUST0708,Delta Logistics,Retail,North,Hyderabad,500000,P. Mehta,Enterprise,16,A,Inactive
+CUST0709,Global Foods,Retail,North,Kolkata,750000,S. Kapoor,Enterprise,74,D,Active
+CUST0710,Delta Solutions,Pharma,North,Kolkata,250000,A. Sharma,SME,42,B,Active
+CUST0711,Nova Logistics,FMCG,West,Jaipur,750000,K. Gupta,Mid-Market,63,C,Active
+CUST0712,Prime Enterprises,FMCG,East,Kolkata,1500000,R. Singh,Mid-Market,77,D,Active
+CUST0713,Global Enterprises,Healthcare,East,Mumbai,2000000,V. Rao,SME,56,C,Active
+CUST0714,Beta Solutions,Manufacturing,West,Pune,500000,A. Sharma,Mid-Market,50,B,Active
+CUST0715,Beta Industries,Pharma,East,Pune,1500000,K. Gupta,Mid-Market,67,C,Active
+CUST0716,Gamma Logistics,Automotive,South,Pune,2000000,A. Sharma,Enterprise,25,A,Active
+CUST0717,Delta Enterprises,Pharma,North,Delhi,3000000,A. Sharma,Enterprise,23,A,Active
+CUST0718,Global Foods,Manufacturing,North,Mumbai,3000000,V. Rao,Enterprise,68,C,Active
+CUST0719,Beta Pharma,FMCG,South,Kolkata,250000,P. Mehta,Enterprise,21,A,Active
+CUST0720,Prime Foods,IT Services,East,Kolkata,250000,N. Verma,Mid-Market,44,B,Active
+CUST0721,Global Foods,Automotive,West,Jaipur,1000000,K. Gupta,SME,34,B,Active
+CUST0722,Delta Retail,Automotive,West,Bengaluru,500000,S. Kapoor,Mid-Market,58,C,Active
+CUST0723,Beta Foods,Automotive,South,Pune,500000,V. Rao,Enterprise,51,C,Active
+CUST0724,Global Enterprises,Pharma,East,Jaipur,2000000,A. Sharma,Mid-Market,56,C,Active
+CUST0725,Nova Logistics,Pharma,East,Kolkata,1000000,N. Verma,SME,51,C,Active
+CUST0726,Gamma Foods,FMCG,South,Hyderabad,500000,R. Singh,Mid-Market,35,B,Inactive
+CUST0727,Prime Industries,Healthcare,East,Jaipur,1000000,A. Sharma,Enterprise,37,B,Active
+CUST0728,Prime Retail,FMCG,West,Bengaluru,750000,K. Gupta,Mid-Market,57,C,Active
+CUST0729,Nova Enterprises,Healthcare,East,Hyderabad,1500000,R. Singh,Enterprise,78,D,Active
+CUST0730,Apex Enterprises,Pharma,South,Chennai,1000000,S. Kapoor,SME,70,C,Active
+CUST0731,Zenith Solutions,Retail,North,Pune,750000,R. Singh,Mid-Market,28,A,Active
+CUST0732,Global Pharma,Construction,West,Jaipur,1000000,A. Sharma,SME,59,C,Active
+CUST0733,Beta Logistics,FMCG,South,Hyderabad,1500000,R. Singh,SME,51,C,Active
+CUST0734,Global Retail,Manufacturing,East,Kolkata,1000000,K. Gupta,Enterprise,68,C,Active
+CUST0735,Nova Retail,Automotive,North,Pune,250000,A. Sharma,Mid-Market,21,A,Active
+CUST0736,Apex Foods,IT Services,South,Pune,500000,K. Gupta,SME,54,C,Active
+CUST0737,Vertex Pharma,FMCG,West,Delhi,1500000,A. Sharma,Mid-Market,74,D,Active
+CUST0738,Nova Retail,FMCG,East,Delhi,1500000,N. Verma,Mid-Market,19,A,Active
+CUST0739,Nova Solutions,FMCG,West,Bengaluru,3000000,S. Kapoor,Enterprise,30,A,Active
+CUST0740,Apex Enterprises,IT Services,South,Chennai,3000000,N. Verma,Mid-Market,43,B,Active
+CUST0741,Nova Enterprises,Automotive,North,Mumbai,1500000,V. Rao,SME,39,B,Active
+CUST0742,Delta Traders,FMCG,North,Pune,750000,S. Kapoor,Enterprise,78,D,Active
+CUST0743,Zenith Logistics,Healthcare,North,Pune,250000,N. Verma,SME,60,C,Active
+CUST0744,Gamma Pharma,Retail,East,Delhi,3000000,S. Kapoor,Enterprise,29,A,Active
+CUST0745,Nova Industries,Manufacturing,South,Chennai,250000,S. Kapoor,SME,59,C,Active
+CUST0746,Beta Solutions,Manufacturing,South,Pune,500000,V. Rao,Mid-Market,56,C,Active
+CUST0747,Beta Traders,Retail,West,Pune,3000000,P. Mehta,Mid-Market,47,B,Inactive
+CUST0748,Gamma Industries,Pharma,South,Pune,250000,V. Rao,Mid-Market,28,A,Active
+CUST0749,Vertex Traders,Pharma,North,Jaipur,2000000,S. Kapoor,Enterprise,43,B,Active
+CUST0750,Gamma Enterprises,Automotive,North,Bengaluru,3000000,N. Verma,Enterprise,59,C,Active
+CUST0751,Gamma Solutions,Retail,South,Chennai,2000000,V. Rao,Mid-Market,75,D,Active
+CUST0752,Global Traders,Healthcare,East,Delhi,750000,S. Kapoor,Enterprise,27,A,Active
+CUST0753,Alpha Logistics,IT Services,South,Jaipur,1500000,N. Verma,SME,40,B,Active
+CUST0754,Gamma Enterprises,Construction,West,Hyderabad,2000000,A. Sharma,Mid-Market,30,A,Inactive
+CUST0755,Vertex Solutions,Construction,West,Kolkata,500000,A. Sharma,Enterprise,33,B,Active
+CUST0756,Prime Retail,Manufacturing,North,Chennai,1000000,K. Gupta,Enterprise,19,A,Active
+CUST0757,Global Industries,FMCG,North,Bengaluru,3000000,S. Kapoor,Mid-Market,31,B,Active
+CUST0758,Gamma Pharma,Construction,West,Pune,500000,K. Gupta,Enterprise,54,C,Active
+CUST0759,Zenith Retail,FMCG,East,Hyderabad,2000000,V. Rao,SME,36,B,Active
+CUST0760,Prime Solutions,Healthcare,East,Hyderabad,3000000,P. Mehta,Mid-Market,35,B,Active
+CUST0761,Vertex Pharma,Retail,East,Bengaluru,2000000,A. Sharma,SME,29,A,Active
+CUST0762,Apex Foods,Construction,West,Pune,500000,V. Rao,Enterprise,79,D,Active
+CUST0763,Delta Solutions,Automotive,North,Bengaluru,500000,S. Kapoor,SME,75,D,Active
+CUST0764,Beta Retail,Manufacturing,North,Bengaluru,250000,V. Rao,SME,76,D,Active
+CUST0765,Apex Industries,Retail,South,Chennai,750000,A. Sharma,SME,72,D,Active
+CUST0766,Zenith Solutions,Retail,South,Kolkata,250000,S. Kapoor,Mid-Market,26,A,Active
+CUST0767,Gamma Traders,Pharma,West,Chennai,250000,A. Sharma,Mid-Market,51,C,Active
+CUST0768,Gamma Industries,Manufacturing,West,Chennai,1500000,S. Kapoor,Enterprise,70,C,Active
+CUST0769,Prime Foods,Manufacturing,South,Jaipur,1000000,R. Singh,Mid-Market,45,B,Active
+CUST0770,Global Solutions,FMCG,North,Delhi,1000000,N. Verma,Enterprise,25,A,Active
+CUST0771,Apex Industries,FMCG,North,Chennai,3000000,R. Singh,Mid-Market,22,A,Active
+CUST0772,Gamma Retail,Construction,East,Mumbai,250000,V. Rao,Enterprise,58,C,Active
+CUST0773,Apex Solutions,Manufacturing,West,Pune,250000,N. Verma,Mid-Market,79,D,Active
+CUST0774,Beta Pharma,Manufacturing,East,Pune,500000,A. Sharma,SME,33,B,Active
+CUST0775,Alpha Enterprises,Manufacturing,South,Chennai,250000,K. Gupta,SME,44,B,Active
+CUST0776,Prime Traders,Manufacturing,East,Pune,750000,R. Singh,Enterprise,80,D,Active
+CUST0777,Zenith Retail,Construction,West,Bengaluru,1000000,S. Kapoor,Mid-Market,75,D,Active
+CUST0778,Beta Logistics,IT Services,South,Delhi,1000000,N. Verma,SME,74,D,Active
+CUST0779,Nova Logistics,Manufacturing,South,Delhi,500000,S. Kapoor,Enterprise,28,A,Active
+CUST0780,Nova Traders,FMCG,North,Bengaluru,750000,P. Mehta,SME,64,C,Active
+CUST0781,Delta Enterprises,Retail,West,Bengaluru,1500000,V. Rao,Mid-Market,64,C,Active
+CUST0782,Gamma Industries,FMCG,West,Hyderabad,750000,K. Gupta,Enterprise,77,D,Inactive
+CUST0783,Alpha Logistics,Manufacturing,East,Kolkata,3000000,V. Rao,Mid-Market,53,C,Active
+CUST0784,Vertex Logistics,Automotive,North,Jaipur,750000,R. Singh,SME,74,D,Active
+CUST0785,Apex Logistics,FMCG,East,Hyderabad,2000000,R. Singh,Mid-Market,48,B,Active
+CUST0786,Alpha Solutions,Healthcare,East,Kolkata,1000000,R. Singh,Enterprise,45,B,Active
+CUST0787,Global Solutions,Healthcare,North,Jaipur,3000000,N. Verma,Enterprise,26,A,Active
+CUST0788,Gamma Solutions,IT Services,South,Hyderabad,1000000,R. Singh,Mid-Market,79,D,Inactive
+CUST0789,Global Solutions,Automotive,North,Mumbai,500000,R. Singh,Enterprise,73,D,Active
+CUST0790,Nova Enterprises,Construction,South,Mumbai,750000,P. Mehta,Enterprise,35,B,Active
+CUST0791,Apex Solutions,Healthcare,East,Mumbai,500000,N. Verma,Enterprise,68,C,Active
+CUST0792,Prime Logistics,Automotive,West,Bengaluru,250000,P. Mehta,Mid-Market,49,B,Active
+CUST0793,Apex Traders,FMCG,South,Bengaluru,3000000,A. Sharma,SME,31,B,Active
+CUST0794,Gamma Industries,IT Services,East,Jaipur,2000000,K. Gupta,Enterprise,59,C,Active
+CUST0795,Nova Retail,Construction,East,Chennai,1000000,R. Singh,SME,39,B,Active
+CUST0796,Apex Pharma,IT Services,South,Jaipur,1000000,N. Verma,SME,36,B,Inactive
+CUST0797,Nova Logistics,IT Services,North,Jaipur,1500000,S. Kapoor,SME,59,C,Active
+CUST0798,Alpha Solutions,Automotive,North,Kolkata,500000,A. Sharma,Enterprise,51,C,Active
+CUST0799,Gamma Retail,Automotive,South,Mumbai,1000000,P. Mehta,Enterprise,33,B,Active
+CUST0800,Zenith Foods,Manufacturing,North,Pune,1500000,K. Gupta,SME,29,A,Active
+CUST0801,Delta Retail,IT Services,North,Chennai,500000,K. Gupta,Mid-Market,32,B,Active
+CUST0802,Zenith Retail,Construction,West,Chennai,3000000,K. Gupta,SME,33,B,Active
+CUST0803,Gamma Retail,Automotive,West,Pune,1000000,A. Sharma,SME,80,D,Active
+CUST0804,Alpha Traders,Automotive,North,Delhi,750000,V. Rao,SME,29,A,Active
+CUST0805,Zenith Foods,IT Services,South,Kolkata,2000000,V. Rao,Mid-Market,54,C,Active
+CUST0806,Global Enterprises,Pharma,West,Delhi,750000,P. Mehta,SME,60,C,Active
+CUST0807,Prime Logistics,Pharma,North,Jaipur,1500000,R. Singh,Mid-Market,63,C,Active
+CUST0808,Vertex Enterprises,Manufacturing,West,Jaipur,750000,N. Verma,Mid-Market,71,D,Active
+CUST0809,Prime Retail,Construction,North,Pune,1000000,S. Kapoor,Mid-Market,75,D,Active
+CUST0810,Global Retail,Manufacturing,East,Mumbai,2000000,V. Rao,SME,40,B,Active
+CUST0811,Prime Retail,Manufacturing,West,Jaipur,2000000,K. Gupta,Mid-Market,69,C,Active
+CUST0812,Delta Enterprises,Manufacturing,West,Mumbai,1500000,S. Kapoor,Mid-Market,21,A,Active
+CUST0813,Gamma Enterprises,FMCG,North,Mumbai,2000000,R. Singh,Enterprise,26,A,Active
+CUST0814,Alpha Pharma,Manufacturing,East,Chennai,250000,V. Rao,Enterprise,17,A,Active
+CUST0815,Nova Foods,IT Services,West,Jaipur,1000000,P. Mehta,Enterprise,68,C,Active
+CUST0816,Nova Solutions,Pharma,North,Kolkata,250000,P. Mehta,Mid-Market,60,C,Active
+CUST0817,Nova Enterprises,IT Services,North,Jaipur,2000000,V. Rao,Mid-Market,63,C,Active
+CUST0818,Global Traders,Healthcare,South,Delhi,500000,K. Gupta,Mid-Market,36,B,Active
+CUST0819,Gamma Traders,Pharma,East,Jaipur,1000000,N. Verma,Mid-Market,39,B,Active
+CUST0820,Delta Logistics,Retail,East,Chennai,750000,K. Gupta,Enterprise,47,B,Active
+CUST0821,Gamma Logistics,IT Services,South,Delhi,750000,A. Sharma,SME,61,C,Active
+CUST0822,Prime Industries,Construction,South,Chennai,1500000,R. Singh,Enterprise,46,B,Active
+CUST0823,Nova Pharma,IT Services,East,Hyderabad,750000,V. Rao,Mid-Market,48,B,Active
+CUST0824,Delta Traders,Manufacturing,South,Chennai,1000000,P. Mehta,Enterprise,32,B,Active
+CUST0825,Alpha Retail,IT Services,South,Chennai,1000000,V. Rao,Enterprise,45,B,Active
+CUST0826,Delta Enterprises,Construction,East,Delhi,1000000,N. Verma,SME,29,A,Active
+CUST0827,Global Solutions,Healthcare,West,Bengaluru,2000000,S. Kapoor,SME,42,B,Active
+CUST0828,Vertex Foods,Retail,North,Delhi,500000,N. Verma,SME,54,C,Active
+CUST0829,Delta Industries,Healthcare,North,Bengaluru,2000000,S. Kapoor,SME,80,D,Active
+CUST0830,Apex Pharma,Construction,South,Kolkata,1500000,V. Rao,SME,54,C,Active
+CUST0831,Apex Enterprises,FMCG,South,Hyderabad,1500000,P. Mehta,SME,55,C,Active
+CUST0832,Prime Pharma,Manufacturing,North,Delhi,250000,S. Kapoor,SME,76,D,Active
+CUST0833,Gamma Logistics,FMCG,West,Chennai,1000000,A. Sharma,Mid-Market,59,C,Active
+CUST0834,Beta Pharma,Retail,South,Kolkata,1000000,V. Rao,Enterprise,78,D,Active
+CUST0835,Delta Enterprises,IT Services,South,Mumbai,250000,R. Singh,SME,44,B,Active
+CUST0836,Global Foods,Healthcare,East,Jaipur,1500000,R. Singh,Mid-Market,15,A,Inactive
+CUST0837,Delta Enterprises,Construction,North,Bengaluru,1000000,V. Rao,Enterprise,69,C,Active
+CUST0838,Delta Solutions,IT Services,West,Mumbai,1500000,S. Kapoor,Mid-Market,69,C,Active
+CUST0839,Beta Foods,Construction,North,Chennai,1000000,A. Sharma,SME,58,C,Active
+CUST0840,Apex Foods,FMCG,North,Kolkata,1000000,K. Gupta,SME,64,C,Active
+CUST0841,Gamma Solutions,FMCG,North,Jaipur,1000000,S. Kapoor,Mid-Market,80,D,Active
+CUST0842,Global Retail,FMCG,North,Mumbai,2000000,S. Kapoor,SME,74,D,Active
+CUST0843,Prime Logistics,Manufacturing,East,Kolkata,250000,S. Kapoor,Mid-Market,38,B,Inactive
+CUST0844,Alpha Pharma,FMCG,North,Jaipur,3000000,N. Verma,Mid-Market,30,A,Active
+CUST0845,Global Pharma,Manufacturing,East,Chennai,1000000,A. Sharma,Mid-Market,18,A,Active
+CUST0846,Vertex Enterprises,IT Services,East,Pune,250000,R. Singh,SME,71,D,Active
+CUST0847,Beta Logistics,Automotive,East,Delhi,2000000,S. Kapoor,Enterprise,66,C,Active
+CUST0848,Alpha Enterprises,IT Services,South,Jaipur,3000000,N. Verma,SME,35,B,Active
+CUST0849,Beta Enterprises,Manufacturing,East,Kolkata,3000000,N. Verma,SME,27,A,Active
+CUST0850,Delta Industries,IT Services,East,Delhi,250000,P. Mehta,Enterprise,32,B,Active
+CUST0851,Vertex Industries,Automotive,West,Jaipur,3000000,S. Kapoor,SME,20,A,Active
+CUST0852,Delta Traders,IT Services,West,Bengaluru,2000000,P. Mehta,SME,60,C,Active
+CUST0853,Prime Logistics,FMCG,East,Pune,3000000,P. Mehta,Enterprise,36,B,Active
+CUST0854,Beta Industries,Manufacturing,South,Delhi,1000000,V. Rao,SME,51,C,Active
+CUST0855,Global Retail,Pharma,East,Pune,1000000,P. Mehta,SME,42,B,Active
+CUST0856,Prime Traders,Manufacturing,South,Kolkata,500000,A. Sharma,Enterprise,52,C,Active
+CUST0857,Nova Enterprises,Automotive,North,Chennai,1000000,V. Rao,SME,33,B,Active
+CUST0858,Global Traders,IT Services,West,Mumbai,1500000,K. Gupta,SME,79,D,Active
+CUST0859,Alpha Solutions,Healthcare,South,Pune,1000000,K. Gupta,Enterprise,29,A,Active
+CUST0860,Gamma Retail,Construction,West,Chennai,500000,A. Sharma,Enterprise,37,B,Inactive
+CUST0861,Apex Pharma,Healthcare,South,Delhi,500000,R. Singh,Enterprise,56,C,Active
+CUST0862,Vertex Foods,FMCG,West,Mumbai,500000,K. Gupta,Mid-Market,23,A,Active
+CUST0863,Zenith Enterprises,Automotive,West,Mumbai,1000000,V. Rao,SME,44,B,Active
+CUST0864,Prime Pharma,Automotive,North,Hyderabad,1000000,V. Rao,Enterprise,39,B,Active
+CUST0865,Zenith Foods,Automotive,North,Hyderabad,3000000,V. Rao,Enterprise,17,A,Active
+CUST0866,Nova Solutions,Pharma,East,Kolkata,1000000,P. Mehta,SME,24,A,Active
+CUST0867,Global Industries,Retail,West,Hyderabad,3000000,A. Sharma,SME,21,A,Active
+CUST0868,Prime Enterprises,Automotive,West,Pune,250000,A. Sharma,Mid-Market,53,C,Active
+CUST0869,Vertex Foods,Manufacturing,East,Chennai,2000000,S. Kapoor,Enterprise,28,A,Active
+CUST0870,Beta Traders,Construction,West,Hyderabad,2000000,R. Singh,Enterprise,33,B,Active
+CUST0871,Alpha Enterprises,Automotive,South,Pune,3000000,P. Mehta,SME,77,D,Active
+CUST0872,Beta Retail,Retail,South,Jaipur,1500000,A. Sharma,Enterprise,31,B,Active
+CUST0873,Prime Industries,Retail,West,Pune,1000000,R. Singh,Mid-Market,16,A,Active
+CUST0874,Prime Retail,Manufacturing,North,Hyderabad,250000,K. Gupta,Enterprise,37,B,Active
+CUST0875,Prime Retail,Construction,North,Kolkata,500000,S. Kapoor,Mid-Market,41,B,Active
+CUST0876,Global Foods,IT Services,North,Delhi,3000000,R. Singh,Mid-Market,28,A,Active
+CUST0877,Alpha Foods,Healthcare,South,Hyderabad,250000,R. Singh,Enterprise,65,C,Active
+CUST0878,Global Enterprises,IT Services,South,Chennai,250000,A. Sharma,Mid-Market,61,C,Active
+CUST0879,Apex Traders,Pharma,North,Pune,250000,V. Rao,Mid-Market,33,B,Inactive
+CUST0880,Apex Retail,IT Services,South,Chennai,250000,S. Kapoor,SME,79,D,Active
+CUST0881,Beta Solutions,Retail,North,Hyderabad,250000,P. Mehta,SME,62,C,Active
+CUST0882,Prime Solutions,Healthcare,South,Kolkata,500000,R. Singh,Enterprise,78,D,Active
+CUST0883,Nova Enterprises,Pharma,West,Jaipur,1500000,K. Gupta,Mid-Market,80,D,Inactive
+CUST0884,Nova Foods,Retail,East,Jaipur,250000,S. Kapoor,Mid-Market,39,B,Active
+CUST0885,Alpha Industries,Automotive,East,Pune,1000000,A. Sharma,SME,18,A,Active
+CUST0886,Beta Retail,Construction,East,Chennai,1500000,R. Singh,Mid-Market,39,B,Active
+CUST0887,Delta Foods,IT Services,North,Bengaluru,500000,R. Singh,Mid-Market,49,B,Active
+CUST0888,Apex Pharma,FMCG,West,Jaipur,250000,V. Rao,Enterprise,75,D,Active
+CUST0889,Gamma Foods,Pharma,South,Delhi,250000,R. Singh,Enterprise,23,A,Active
+CUST0890,Beta Logistics,FMCG,West,Bengaluru,500000,P. Mehta,Enterprise,26,A,Active
+CUST0891,Prime Enterprises,Healthcare,South,Pune,1000000,S. Kapoor,SME,73,D,Active
+CUST0892,Alpha Foods,IT Services,South,Pune,1500000,V. Rao,Enterprise,15,A,Inactive
+CUST0893,Delta Logistics,Retail,South,Jaipur,750000,A. Sharma,Mid-Market,77,D,Active
+CUST0894,Zenith Industries,Retail,South,Chennai,250000,V. Rao,Enterprise,16,A,Active
+CUST0895,Vertex Logistics,Manufacturing,East,Pune,750000,A. Sharma,Enterprise,61,C,Inactive
+CUST0896,Beta Foods,Manufacturing,North,Delhi,500000,V. Rao,SME,69,C,Active
+CUST0897,Apex Foods,FMCG,South,Pune,1000000,S. Kapoor,Enterprise,56,C,Active
+CUST0898,Beta Enterprises,IT Services,North,Hyderabad,2000000,A. Sharma,Enterprise,19,A,Active
+CUST0899,Beta Industries,FMCG,North,Kolkata,750000,N. Verma,Enterprise,37,B,Inactive
+CUST0900,Prime Foods,IT Services,East,Mumbai,1500000,P. Mehta,Mid-Market,19,A,Active
+CUST0901,Gamma Retail,Pharma,East,Hyderabad,1000000,R. Singh,Enterprise,39,B,Active
+CUST0902,Zenith Pharma,Retail,East,Chennai,500000,R. Singh,Mid-Market,54,C,Active
+CUST0903,Prime Logistics,Automotive,West,Mumbai,2000000,K. Gupta,Mid-Market,15,A,Active
+CUST0904,Alpha Solutions,FMCG,South,Chennai,250000,N. Verma,Mid-Market,47,B,Active
+CUST0905,Prime Enterprises,Retail,South,Mumbai,3000000,P. Mehta,Mid-Market,23,A,Active
+CUST0906,Global Enterprises,IT Services,South,Bengaluru,2000000,P. Mehta,Enterprise,25,A,Active
+CUST0907,Vertex Foods,IT Services,West,Bengaluru,500000,K. Gupta,SME,20,A,Inactive
+CUST0908,Alpha Traders,Retail,South,Mumbai,1500000,S. Kapoor,Mid-Market,31,B,Active
+CUST0909,Zenith Industries,Construction,East,Bengaluru,3000000,N. Verma,Mid-Market,51,C,Active
+CUST0910,Apex Retail,Pharma,East,Kolkata,750000,V. Rao,SME,58,C,Active
+CUST0911,Delta Enterprises,Healthcare,East,Mumbai,3000000,V. Rao,Enterprise,73,D,Active
+CUST0912,Gamma Traders,FMCG,East,Bengaluru,3000000,N. Verma,Enterprise,33,B,Active
+CUST0913,Zenith Enterprises,Healthcare,North,Mumbai,500000,A. Sharma,SME,65,C,Active
+CUST0914,Prime Solutions,Manufacturing,South,Bengaluru,250000,K. Gupta,SME,52,C,Active
+CUST0915,Beta Traders,FMCG,West,Pune,2000000,R. Singh,SME,40,B,Active
+CUST0916,Zenith Traders,Construction,East,Kolkata,250000,P. Mehta,Enterprise,28,A,Active
+CUST0917,Apex Enterprises,Pharma,West,Delhi,750000,K. Gupta,Mid-Market,32,B,Active
+CUST0918,Apex Enterprises,Healthcare,North,Bengaluru,500000,S. Kapoor,Mid-Market,48,B,Active
+CUST0919,Zenith Pharma,Construction,East,Hyderabad,2000000,R. Singh,Enterprise,71,D,Active
+CUST0920,Beta Pharma,Pharma,South,Pune,1500000,R. Singh,SME,54,C,Active
+CUST0921,Alpha Traders,FMCG,West,Pune,1000000,R. Singh,Mid-Market,53,C,Active
+CUST0922,Nova Foods,Retail,East,Chennai,2000000,A. Sharma,Mid-Market,24,A,Active
+CUST0923,Beta Enterprises,Healthcare,South,Delhi,250000,N. Verma,SME,38,B,Active
+CUST0924,Alpha Retail,IT Services,East,Bengaluru,3000000,N. Verma,Mid-Market,37,B,Active
+CUST0925,Zenith Solutions,FMCG,West,Delhi,3000000,S. Kapoor,Mid-Market,36,B,Active
+CUST0926,Delta Logistics,Automotive,West,Bengaluru,2000000,R. Singh,Mid-Market,23,A,Active
+CUST0927,Gamma Enterprises,Healthcare,South,Chennai,2000000,A. Sharma,Enterprise,70,C,Active
+CUST0928,Zenith Solutions,FMCG,South,Kolkata,250000,V. Rao,SME,15,A,Active
+CUST0929,Global Enterprises,FMCG,North,Chennai,1500000,A. Sharma,Mid-Market,65,C,Active
+CUST0930,Zenith Traders,Manufacturing,South,Hyderabad,500000,K. Gupta,Enterprise,24,A,Active
+CUST0931,Vertex Pharma,Construction,North,Pune,2000000,S. Kapoor,Mid-Market,55,C,Active
+CUST0932,Nova Industries,Construction,North,Delhi,750000,S. Kapoor,SME,53,C,Active
+CUST0933,Gamma Traders,Healthcare,North,Kolkata,2000000,A. Sharma,Enterprise,37,B,Active
+CUST0934,Global Enterprises,Manufacturing,North,Chennai,250000,A. Sharma,SME,15,A,Active
+CUST0935,Vertex Logistics,Healthcare,East,Chennai,500000,N. Verma,Enterprise,50,B,Active
+CUST0936,Nova Retail,Healthcare,South,Chennai,1500000,K. Gupta,Mid-Market,28,A,Active
+CUST0937,Beta Enterprises,Retail,North,Hyderabad,250000,K. Gupta,Enterprise,42,B,Active
+CUST0938,Alpha Foods,Healthcare,West,Jaipur,500000,R. Singh,Enterprise,53,C,Active
+CUST0939,Delta Enterprises,IT Services,East,Kolkata,750000,A. Sharma,SME,72,D,Active
+CUST0940,Global Industries,FMCG,East,Mumbai,250000,S. Kapoor,SME,51,C,Active
+CUST0941,Apex Retail,FMCG,West,Pune,1500000,N. Verma,Mid-Market,18,A,Active
+CUST0942,Gamma Foods,IT Services,West,Delhi,3000000,N. Verma,SME,49,B,Active
+CUST0943,Global Industries,IT Services,South,Chennai,750000,P. Mehta,SME,45,B,Active
+CUST0944,Vertex Pharma,Healthcare,West,Kolkata,500000,A. Sharma,SME,37,B,Active
+CUST0945,Prime Logistics,Pharma,West,Jaipur,1500000,P. Mehta,Enterprise,69,C,Active
+CUST0946,Nova Foods,FMCG,East,Hyderabad,500000,P. Mehta,Mid-Market,32,B,Active
+CUST0947,Apex Industries,Retail,East,Pune,2000000,A. Sharma,Enterprise,42,B,Active
+CUST0948,Alpha Solutions,FMCG,West,Hyderabad,3000000,R. Singh,SME,42,B,Active
+CUST0949,Apex Solutions,Healthcare,West,Mumbai,1000000,P. Mehta,SME,64,C,Active
+CUST0950,Alpha Pharma,Manufacturing,West,Mumbai,3000000,N. Verma,Mid-Market,78,D,Active
+CUST0951,Nova Traders,Construction,West,Pune,3000000,V. Rao,SME,53,C,Active
+CUST0952,Nova Foods,Construction,West,Pune,750000,S. Kapoor,Enterprise,67,C,Active
+CUST0953,Prime Traders,FMCG,East,Delhi,1000000,R. Singh,Mid-Market,33,B,Active
+CUST0954,Gamma Industries,Construction,North,Kolkata,2000000,R. Singh,Mid-Market,60,C,Active
+CUST0955,Prime Solutions,FMCG,North,Pune,750000,V. Rao,Mid-Market,73,D,Active
+CUST0956,Nova Solutions,Automotive,South,Jaipur,2000000,R. Singh,SME,48,B,Active
+CUST0957,Vertex Foods,IT Services,North,Pune,500000,K. Gupta,Mid-Market,54,C,Active
+CUST0958,Prime Industries,Automotive,North,Kolkata,3000000,P. Mehta,Enterprise,34,B,Active
+CUST0959,Nova Pharma,Automotive,West,Jaipur,3000000,A. Sharma,Mid-Market,19,A,Active
+CUST0960,Prime Traders,Automotive,South,Pune,1500000,R. Singh,Enterprise,48,B,Active
+CUST0961,Apex Enterprises,Healthcare,West,Chennai,250000,S. Kapoor,Enterprise,31,B,Active
+CUST0962,Beta Traders,Retail,North,Chennai,3000000,S. Kapoor,SME,45,B,Active
+CUST0963,Nova Foods,Construction,North,Kolkata,3000000,R. Singh,Enterprise,25,A,Active
+CUST0964,Delta Logistics,Manufacturing,West,Chennai,250000,V. Rao,Enterprise,65,C,Active
+CUST0965,Delta Pharma,Healthcare,North,Chennai,3000000,K. Gupta,SME,20,A,Active
+CUST0966,Alpha Retail,IT Services,West,Chennai,3000000,N. Verma,Mid-Market,65,C,Active
+CUST0967,Apex Solutions,Automotive,South,Chennai,250000,P. Mehta,Mid-Market,63,C,Active
+CUST0968,Nova Foods,Healthcare,West,Mumbai,2000000,K. Gupta,SME,51,C,Active
+CUST0969,Nova Traders,IT Services,South,Jaipur,750000,N. Verma,Mid-Market,27,A,Active
+CUST0970,Gamma Foods,Manufacturing,East,Kolkata,1000000,V. Rao,SME,61,C,Active
+CUST0971,Alpha Retail,FMCG,East,Chennai,2000000,K. Gupta,SME,41,B,Active
+CUST0972,Zenith Industries,Healthcare,North,Pune,250000,R. Singh,Enterprise,25,A,Active
+CUST0973,Vertex Pharma,IT Services,West,Hyderabad,750000,N. Verma,Mid-Market,43,B,Inactive
+CUST0974,Global Industries,Automotive,West,Jaipur,500000,S. Kapoor,Mid-Market,42,B,Active
+CUST0975,Delta Logistics,Automotive,East,Chennai,1500000,N. Verma,Mid-Market,79,D,Active
+CUST0976,Nova Enterprises,Retail,North,Jaipur,750000,V. Rao,Enterprise,47,B,Active
+CUST0977,Apex Pharma,FMCG,North,Bengaluru,2000000,V. Rao,SME,17,A,Active
+CUST0978,Nova Pharma,Pharma,North,Kolkata,500000,K. Gupta,Enterprise,41,B,Active
+CUST0979,Nova Enterprises,Manufacturing,East,Bengaluru,750000,R. Singh,Enterprise,15,A,Active
+CUST0980,Global Traders,FMCG,North,Kolkata,1000000,S. Kapoor,SME,37,B,Active
+CUST0981,Apex Foods,Healthcare,South,Hyderabad,1000000,P. Mehta,Enterprise,70,C,Inactive
+CUST0982,Vertex Retail,Automotive,South,Kolkata,1500000,A. Sharma,Mid-Market,67,C,Active
+CUST0983,Beta Industries,Healthcare,North,Bengaluru,2000000,R. Singh,SME,60,C,Active
+CUST0984,Gamma Enterprises,FMCG,East,Bengaluru,2000000,V. Rao,Mid-Market,21,A,Active
+CUST0985,Gamma Enterprises,Automotive,South,Pune,500000,A. Sharma,SME,56,C,Active
+CUST0986,Nova Enterprises,Retail,South,Pune,750000,V. Rao,Mid-Market,72,D,Active
+CUST0987,Global Logistics,Retail,West,Bengaluru,1500000,S. Kapoor,SME,75,D,Active
+CUST0988,Alpha Industries,Automotive,South,Bengaluru,750000,S. Kapoor,SME,24,A,Active
+CUST0989,Alpha Logistics,Construction,West,Pune,1500000,A. Sharma,SME,28,A,Active
+CUST0990,Delta Solutions,IT Services,East,Chennai,3000000,S. Kapoor,SME,41,B,Active
+CUST0991,Alpha Traders,Manufacturing,South,Chennai,2000000,K. Gupta,SME,36,B,Active
+CUST0992,Zenith Pharma,Retail,North,Jaipur,250000,R. Singh,SME,34,B,Active
+CUST0993,Gamma Enterprises,Construction,West,Kolkata,750000,P. Mehta,Enterprise,76,D,Active
+CUST0994,Nova Foods,Automotive,West,Jaipur,750000,R. Singh,Mid-Market,37,B,Active
+CUST0995,Nova Logistics,Pharma,East,Chennai,1500000,P. Mehta,SME,25,A,Active
+CUST0996,Gamma Foods,Retail,East,Pune,3000000,K. Gupta,Enterprise,50,B,Active
+CUST0997,Beta Foods,Construction,South,Pune,250000,V. Rao,Enterprise,23,A,Active
+CUST0998,Vertex Retail,Automotive,East,Mumbai,1000000,R. Singh,Mid-Market,69,C,Active
+CUST0999,Delta Foods,Retail,East,Pune,2000000,P. Mehta,Enterprise,34,B,Active
+CUST1000,Vertex Industries,Retail,West,Chennai,1500000,N. Verma,Mid-Market,29,A,Active
